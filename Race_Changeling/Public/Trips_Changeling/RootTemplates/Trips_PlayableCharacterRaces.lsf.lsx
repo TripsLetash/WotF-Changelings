@@ -13,6 +13,7 @@
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="ParentTemplateId" type="FixedString" value="de838c80-5a17-4165-81ee-13d79194b629" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          			<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingMale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />
@@ -46,6 +47,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="5fd99058-5221-4ca9-81d2-53d010cb277e" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="5fd99058-5221-4ca9-81d2-53d010cb277e" />				
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          			<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />

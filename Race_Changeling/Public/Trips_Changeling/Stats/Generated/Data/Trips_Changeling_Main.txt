@@ -43,7 +43,7 @@ type "PassiveData"
 data "Icon" "PassiveFeature_FeyAncestry"
 data "DisplayName" "h7d2cbbd4g0746g4941g8de6ge74fd273e959;1"
 data "Description" "hfbda3476gd944g466ega07cg853b07753fa8;1"
-data "Boosts" "Tag(FEY)"
+data "Boosts" "Tag(FEY);Tag(Trips_Changeling);Tag(RARE)"
 data "Properties" "Highlighted;ForceShowInCC"
 
 new entry "Trips_Immunities"
