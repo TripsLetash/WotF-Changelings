@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h33007ec1gf80cg4726g875ege76880e71416" version="1">Changeling</content>	
+	<content contentuid="h0f7cef08g82a7g4e3eg8a6agaf8b4ee98bbc" version="1">With ever-changing appearances, Changelings reside in many societies undetected. Each Changeling can supernaturally adopt any face they like. For some Changelings, a new face is only a disguise. For other Changelings, a new face may reveal an aspect of their soul.</content>	
+	<content contentuid="h00efdfe4g7f01g4e62gbf70g4bcc037a4140" version="1">Shapechanger</content>
+	<content contentuid="hac291435g6d5fg4738gba27gef725f5ee49a" version="1">Shapechanger - Generic</content>
+	<content contentuid="hffb76d35gb6beg4886g8127g1337979206de" version="1">Shapechanger - ACT 1</content>	
+	<content contentuid="h5e815f99g419fg4445g8ce9g3cb7afc3b354" version="1">Shapechanger - ACT 2</content>	
+	<content contentuid="hdb5dc207g5dddg4aeaga075ge53cc062092c" version="1">Shapechanger - ACT 3</content>
+	<content contentuid="hce93652ag575fg4d46g8b65gf2d6d6fc0228" version="1">As an action, you can change your appearance. You must adopt a shape that has the same basic arrangement of limbs that you have. Your clothing and equipment aren’t changed by this trait. You learn more shapes upon reaching level 2, 7 and 10 respectively.</content>
+	<content contentuid="h7d2cbbd4g0746g4941g8de6ge74fd273e959" version="1">Fey Ancestry</content>
+	<content contentuid="hfbda3476gd944g466ega07cg853b07753fa8" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and magic can't put you to sleep.</content>
+	<content contentuid="h6f0df4ecgcfe7g40f5gafe8g9e12adedfda8" version="1">Immunities</content>
+	<content contentuid="he33bc6e2gf59dg4488g85f4g75a2fee69b5c" version="1">Turn Back to your unaltered shape.</content>	
+	<content contentuid="h11f29090g5219g456eg8eedg35392b8f4a4f" version="1">Shapechange into a Humanoid shape from a generic pool of races until you die or use an action to dismiss the effect. You learn more shapes upon reaching level 2, 7 and 10 respectively.</content>
+	<content contentuid="h37ff8f2bgcecdg4288gb1cdg4350816ad6ea" version="1">Shapechange into a Humanoid shape from ACT 1 until you die or use an action to dismiss the effect. Becomes available upon reaching level 2.</content>
+	<content contentuid="hb02554eag0274g43cegaf5bg8f05985ac0df" version="1">Shapechange into a Humanoid shape from ACT 2 until you die or use an action to dismiss the effect. Becomes available upon reaching level 7.</content>
+	<content contentuid="h4a0ed99agf22bg447egae45g61d9c61f86dc" version="1">Shapechange into a Humanoid shape from ACT 3 until you die or use an action to dismiss the effect. Becomes available upon reaching level 10.</content>
+
+	<content contentuid="h8c46ac72g4188g4c54g9764gfa6f2566e2a4" version="1">Changeling Instincts</content>	
+	<content contentuid="h00f539a9g7e70g4203ga0f8g35a756f893cf" version="1">Thanks to your connection to the fey realm, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with two of the following &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of your choice: Deception, Insight, Intimidation, Performance or Persuasion.</content>
+
+	<content contentuid="h5902e8a2g7c80g43e1g9739gd07ff88d2ec6" version="1">Change your shape to that of another Humanoid.</content>
+
+	<content contentuid="hd10f7655gca53g4644g9c82g1c6f38212a39" version="1">Shapechange: Lae'zel</content>
+	<content contentuid="h9662a2a7gd696g4531g81a0gb7558b79dd4f" version="1">Shapechange: Karlach</content>
+	<content contentuid="h9efb8816g1a77g4176g8fa4gf027f646a8a5" version="1">Shapechange: Gale</content>
+	<content contentuid="h8223eac5g1dd9g40e2g818eg5d6a87635ead" version="1">Shapechange: Wyll</content>
+	<content contentuid="h595c4fe7g2cc6g436cgac04gcd00407bf316" version="1">Shapechange: Astarion</content>
+	<content contentuid="h3509bcfage884g4f15g801fg6cdca2236393" version="1">Shapechange: Shadowheart</content>
+	<content contentuid="he8c32d54g3335g481dg84eeg57a95446769b" version="1">Shapechange: Alfira</content>
+	<content contentuid="h29f50e24g4374g42fcg9792g58842b6256e1" version="1">Shapechange: Zevlor</content>
+	<content contentuid="h8e8d5741gd748g4e7bgac95gd39f3bdebad7" version="1">Shapechange: Kagha</content>
+	<content contentuid="had5a4aacg2781g4717g8dadgc3ba2dfaef52" version="1">Shapechange: Rolan</content>
+	<content contentuid="h343f5291ge0e9g456dg936bgf7c74b87e2dc" version="1">Shapechange: Halsin</content>
+	<content contentuid="hbf5c5b69gaf7bg45b1g8ae7gdb6bd6386f13" version="1">Shapechange: Minthara</content>
+
+
+	<content contentuid="hc4e2d3fbg3317g4585ga1fcg5a3391c826fb" version="1">Shapechange: Base Shape</content>	
+	<content contentuid="h3270ead9g7ee9g45c1gb6e0gde4e8dec074d" version="1">Shapechange: Tiefling Male</content>
+	<content contentuid="h7bb4b035g6cedg49dcga90ag462afca70e7f" version="1">Shapechange: Tiefling Female</content>
+	<content contentuid="h6504f85cg09d3g4968g9759gf8153e51c96e" version="1">Shapechange: Drow Male</content>
+	<content contentuid="he8bac825g5a74g428fg9501g46c37e4cb437" version="1">Shapechange: Drow Female</content>
+	<content contentuid="heaedffffge3acg4103g9c29gd2aa52975069" version="1">Shapechange: Human Male</content>
+	<content contentuid="h3cb18f84gea66g4b6bg84aag5a6619e52b1e" version="1">Shapechange: Human Female</content>
+	<content contentuid="h17ed1d58gfed9g427fgb07ag4192837272ef" version="1">Shapechange: Githyanki Male</content>
+	<content contentuid="hdce73e36g25e2g4367gb887ge25b1fa5d0af" version="1">Shapechange: Githyanki Female</content>
+	<content contentuid="h99689726g1928g4438gbd1ege9c30c83e0b9" version="1">Shapechange: Dwarf Male</content>
+	<content contentuid="h95386cfag053ag4a22gae62g7f724a1305e9" version="1">Shapechange: Dwarf Female</content>
+	<content contentuid="hb62ed56ag0911g44a4g9e00gae2a0194c12d" version="1">Shapechange: Elf Male</content>
+	<content contentuid="he663ece9g65c2g456eg9ed7g82294d895c1d" version="1">Shapechange: Elf Female</content>
+	<content contentuid="hf2a2eef7g0527g4155ga6a6gd440373d2386" version="1">Shapechange: Half-Elf Male</content>
+	<content contentuid="h97fec884gd587g48b2g9e47g2790933a2ba1" version="1">Shapechange: Half-Elf Female</content>
+	<content contentuid="h1761358fgeeceg42b5gbb43g741366a16b58" version="1">Shapechange: Halfling Male</content>
+	<content contentuid="h24e92c30g082ag4534g95b1ge07f9e0628d4" version="1">Shapechange: Halfling Female</content>
+	<content contentuid="h5c1ee8a9g723cg48b2gaeb8ga055ccbec687" version="1">Shapechange: Gnome Male</content>
+	<content contentuid="h3802e5adg8754g4d79gb0adg2be4c34f4949" version="1">Shapechange: Gnome Female</content>
+	<content contentuid="h9b8e3326gfd9bg48a5ga845g5ec1cf3ec3ba" version="1">Shapechange: Dragonborn Male</content>
+	<content contentuid="hb9bab66fg2686g4bc7g956dg035a9d3c7660" version="1">Shapechange: Dragonborn Female</content>
+	<content contentuid="h3415669bg8d39g4e11gbfaeg694d79bde061" version="1">Shapechange: Half-Orc Male</content>
+	<content contentuid="h41a4f638g1c21g43e0g9906g5cb75d4cb5ff" version="1">Shapechange: Half-Orc Female</content>
+
+	<content contentuid="h1f802c8dg1781g4d3fg84d9gdbf9c58c9611" version="1">Shapechange: Strong Human Male</content>
+	<content contentuid="hf703adfcg0e34g47bcg94aag1e97c7365bb9" version="1">Shapechange: Strong Human Female</content>
+	<content contentuid="haad93771g0c2dg4792g9912g2ca05776c8fb" version="1">Shapechange: Strong Drow Male</content>
+	<content contentuid="h2d9535f8g2210g46fag8219gc05103eac090" version="1">Shapechange: Strong Drow Female</content>
+	<content contentuid="hc31cb6a6g7c25g49dcgbe04g3abe3c269901" version="1">Shapechange: Strong Elf Male</content>
+	<content contentuid="h271922feg6248g4b6ega047g8f3d73e8cf1d" version="1">Shapechange: Strong Elf Female</content>
+	<content contentuid="h30b47cd3gdbf3g4b7dga53fgd974b3266348" version="1">Shapechange: Strong Half-Elf Male</content>
+	<content contentuid="h491f604dg5176g4bd3gb565gc02f93ed2780" version="1">Shapechange: Strong Half-Elf Female</content>
+	<content contentuid="h10594fbeg41a4g43aeg8f65g3a93574b1fde" version="1">Shapechange: Strong Tiefling Male</content>
+	<content contentuid="hd9f99933gb606g40cdga38fg4af04fbb8856" version="1">Shapechange: Strong Tiefling Female</content>
+
+
+
+
+
+
+
+
+
+
+</contentList>

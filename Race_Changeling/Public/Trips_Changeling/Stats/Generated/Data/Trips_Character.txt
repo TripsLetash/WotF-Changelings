@@ -1,0 +1,11 @@
+new entry "Trips_HeroChangelingFemale"
+type "Character"
+using "_Hero"
+data "StepsType" "Bare"
+data "Weight" "60"
+
+new entry "Trips_HeroChangelingMale"
+type "Character"
+using "_Hero"
+data "StepsType" "Bare"
+data "Weight" "60"

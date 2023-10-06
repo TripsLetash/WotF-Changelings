@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="8" minor="0" revision="0" build="2" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+
+			</children>
+		</node>
+	</region>
+</save>				

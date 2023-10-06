@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Type Tag for changeling gender" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h5499dd35g0aa5g41aagaf66gc0d3ca1bb6bc" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hac09fa96gfa9bg4d62g8bb4g70c002aefe3a" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="CHANGELING_FEM" />
+			<attribute id="UUID" type="guid" value="4683a3a3-cf33-4060-be1f-017827e4ad78" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

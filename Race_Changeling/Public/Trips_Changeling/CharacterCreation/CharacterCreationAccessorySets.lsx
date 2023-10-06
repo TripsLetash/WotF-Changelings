@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="CharacterCreationAccessorySets">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAccessorySet">
+                    <attribute id="CharacterCreationSet" type="bool" value="true"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h56b87e27gef0bg4b84ga72bg8b90bf570921" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SlotName" type="FixedString" value="Piercing"/>
+                    <attribute id="UUID" type="guid" value="42f8102d-5866-4cbe-b9d4-d7e8879640eb"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
