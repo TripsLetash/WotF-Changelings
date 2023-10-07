@@ -4,6 +4,27 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Cazador-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="cca16556-def7-4304-b038-1676aea8c8dc" />
+					<attribute id="Name" type="LSString" value="Cazador" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="Icon" type="FixedString" value="39fd0efa-ae2d-a7e2-e07d-79b90a070367-_(Icon_Cazador)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="693b2616-174c-43cd-8df0-8803a2d22d4d" />
+					<attribute id="Archetype" type="FixedString" value="act3_LOW_cazador" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 				<!--Viconia-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="86d716e9-1bd1-406b-a283-8c6ca697d8f8" />

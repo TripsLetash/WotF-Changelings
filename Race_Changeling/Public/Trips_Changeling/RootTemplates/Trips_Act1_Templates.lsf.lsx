@@ -4,6 +4,107 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Gandrel-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a744fead-46b9-4358-a7a6-f7ff357cd8d8" />
+					<attribute id="Icon" type="FixedString" value="832affa0-2b75-71b1-e669-0d506ec1c7b3-EQP_Gandrel_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="MapKey" type="FixedString" value="464310d0-f462-47a7-820a-c611c7124a4e" />
+					<attribute id="Name" type="LSString" value="Gandrel" />
+					<attribute id="Stats" type="FixedString" value="HAG_GurHunter" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Florrick-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0415e03b-c7d1-4878-b85b-cf0fb3a8e5ee" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc6661e41gb3d0g43c5g96c0gddd065264817" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Staff_Robe" />
+					<attribute id="Icon" type="FixedString" value="5240998a-bfb6-db4a-71dd-688ed4f68b25-EQP_Staff_Robe_(Icon_Elf_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b0aaf216-2621-4d09-942b-54c70a8e6e53" />
+					<attribute id="Name" type="LSString" value="Florrick" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e285d7b5-6b09-4857-89aa-a91e9e6898e5" />
+					<attribute id="Race" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
+					<attribute id="Stats" type="FixedString" value="GLO_CounsellorFlorrick" />
+					<attribute id="Title" type="TranslatedString" handle="h62d4f5b8g196dg4139gb7a5gc251acae2c39" version="1" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Wyll (Altered)-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="faf5255f-4dfa-d8bb-7e7a-5e4b7e11497c" />
+					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="faf5255f-4dfa-d8bb-7e7a-5e4b7e11497c-EQ_Wyll_(Icon_Origin_Wyll)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f4242666-04af-4cfa-8f86-a8b3c164d5cd" />
+					<attribute id="Name" type="LSString" value="Wyll Devil" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="facf82dc-a6e1-4720-a0bd-6efde960dc5f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b5de40c5-edec-43a7-a918-1d85c13232de" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8df7d133-21cb-4e8d-92dd-9ef9394fd2d1" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 				<!--Dammon-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae" />
