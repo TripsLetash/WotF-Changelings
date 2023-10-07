@@ -5,19 +5,14 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="9404e0a4-fafd-47ec-ad6d-52d63cb116ff" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hcf282116g50dcg4e58ga995g638d7ae08e7e" version="1" />
-					<attribute id="Equipment" type="FixedString" value="EQP_CC_Ranger" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b933b9ae-e37a-95ff-0801-1dd31069ecfc" />
 					<attribute id="Faction" type="guid" value="afb9d9bb-9a52-4737-4d8d-c5c72f32b730" />
-					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Minsc" />
 					<attribute id="Icon" type="FixedString" value="9404e0a4-fafd-47ec-ad6d-52d63cb116ff-EQP_CC_Ranger_(Icon_Minsc)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="f0fe9d9b-5a45-4d16-bb0c-879c4e27e753" />
+					<attribute id="MapKey" type="FixedString" value="c53f734b-66b7-4649-b520-68b9eef2f8e9" />
 					<attribute id="Name" type="LSString" value="Minsc" />
 					<attribute id="ParentTemplateId" type="FixedString" value="056fffd0-9009-4627-84c2-f0a22e311ec7" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="6acff363-4407-0b10-0a7c-c1e27fe03c58" />
-					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="Origin_Minsc" />
 					<attribute id="Type" type="FixedString" value="character" />
