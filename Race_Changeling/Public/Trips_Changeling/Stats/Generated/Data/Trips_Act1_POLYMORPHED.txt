@@ -5,6 +5,13 @@ using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
 data "DisplayName" "h0728c127ga34cg4f6dga117g031367454ddb"
 data "TemplateID" "464310d0-f462-47a7-820a-c611c7124a4e"
 
+new entry "SHAPESHIFT_TRIPS_URGE"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hf9a80f12g5543g444cga1acg354bb53857b5"
+data "TemplateID" "5a7ceb98-ab9e-4c47-ac44-72b4aa850e4c"
+
 new entry "SHAPESHIFT_TRIPS_FLORRICK"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
