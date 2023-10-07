@@ -4,6 +4,20 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e9dc2324-ec52-40bc-aa8c-8f064632ce66" />
+					<attribute id="Icon" type="FixedString" value="eb90eea1-afd3-4ad5-c6ee-79f26fcb8c26-EQP_WYR_Lucretious_(Icon_Human_Female_Strong)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="08dab9a0-31ac-4770-8a8d-f9ebde6cb1e4" />
+					<attribute id="Name" type="LSString" value="Lucretious" />
+					<attribute id="Stats" type="FixedString" value="WYR_Lucretious" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 				<!--Nocturne-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3bb8c2ea-e667-476f-8115-819f0729c5c2" />
@@ -18,10 +32,10 @@
 						<node id="LocomotionParams" />
 					</children>
 				</node>
-				<!--Githrak Voss-->
+				<!--Kithrak Voss-->
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="2b5ebdb9-94d4-4f41-9716-fc781102b55b" />
-					<attribute id="Name" type="LSString" value="Githrak Voss" />
+					<attribute id="Name" type="LSString" value="Kith'rak Voss" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="de838c80-5a17-4165-81ee-13d79194b629" />
