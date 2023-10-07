@@ -4,6 +4,21 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Sarevok-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="310238ae-2483-4f29-951a-2543620dcba5" />
+					<attribute id="Icon" type="FixedString" value="32e5b697-624d-5270-5634-433bfd15b9ec-EQP_LOW_Sarevok_(Icon_Sarevok)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="070e2269-b99f-4512-9b5a-a24ceea278d6" />
+					<attribute id="Name" type="LSString" value="Sarevok" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ebd19426-c110-47f1-9137-9fb306b719cc" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Lucretious-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e9dc2324-ec52-40bc-aa8c-8f064632ce66" />
 					<attribute id="Icon" type="FixedString" value="eb90eea1-afd3-4ad5-c6ee-79f26fcb8c26-EQP_WYR_Lucretious_(Icon_Human_Female_Strong)" />
