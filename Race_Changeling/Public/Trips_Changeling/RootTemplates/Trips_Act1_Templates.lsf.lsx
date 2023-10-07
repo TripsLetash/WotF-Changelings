@@ -4,6 +4,67 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Dammon-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae" />
+					<attribute id="Faction" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a" />
+					<attribute id="Icon" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae-EQP_Scimitar_Leather_(Icon_Tiefling_Male)" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a5856190-08e3-4741-b697-8b1cbf03eaa1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4dd9d779-8e17-476d-8e7b-60647411b54d" />
+					<attribute id="Name" type="LSString" value="Dammon" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="b8064718-c6e2-060e-b78e-f0d9cc516030" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91d5ebc6-91ea-44db-8a51-216860d69b5b" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="54d84ff5-73f6-4eaf-aa92-0fec99cdace0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Abdirak-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e995059b-78b8-47a1-aa8f-dcee2db511d3" />
+					<attribute id="Faction" type="guid" value="59c586cd-eca6-26bf-7f5a-b6fca6f3e016" />
+					<attribute id="Icon" type="FixedString" value="034812dc-a50d-0607-dae5-bd3ae8fc5fb9-_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="43d0d383-8891-46a3-aae6-26697bc5db19" />
+					<attribute id="Name" type="LSString" value="Abdirak" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />								
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>		
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="ae20615c-be4a-5278-2db7-10b3feade3e1" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>					
+					</children>
+				</node>
+				<!--Minthara-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3e1bb83a-c146-4134-ad43-85b481b63d32" />
 					<attribute id="Faction" type="guid" value="a25829dd-772a-6b00-572f-e036f89471aa" />

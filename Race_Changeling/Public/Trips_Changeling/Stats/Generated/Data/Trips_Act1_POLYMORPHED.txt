@@ -1,3 +1,17 @@
+new entry "SHAPESHIFT_TRIPS_DAMMON"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "ha1230066gbf0ag4931g97e3g473e2c48af9e"
+data "TemplateID" "4dd9d779-8e17-476d-8e7b-60647411b54d"
+
+new entry "SHAPESHIFT_TRIPS_ABDIRAK"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h167e7f5eg89bfg40a9g89e8g154a3b63e20d"
+data "TemplateID" "43d0d383-8891-46a3-aae6-26697bc5db19"
+
 new entry "SHAPESHIFT_TRIPS_MINTHARA"
 type "StatusData"
 data "StatusType" "POLYMORPHED"

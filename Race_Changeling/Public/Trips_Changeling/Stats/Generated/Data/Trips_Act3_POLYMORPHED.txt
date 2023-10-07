@@ -1,0 +1,6 @@
+new entry "SHAPESHIFT_TRIPS_MINSC"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h09d8c12cg3666g4b59g8401g3ab8a8fcf3c0"
+data "TemplateID" "f0fe9d9b-5a45-4d16-bb0c-879c4e27e753"

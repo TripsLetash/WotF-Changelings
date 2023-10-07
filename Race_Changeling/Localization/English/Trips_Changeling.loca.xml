@@ -21,7 +21,7 @@
 	<content contentuid="h00f539a9g7e70g4203ga0f8g35a756f893cf" version="1">Thanks to your connection to the fey realm, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with two of the following &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of your choice: Deception, Insight, Intimidation, Performance or Persuasion.</content>
 
 	<content contentuid="h5902e8a2g7c80g43e1g9739gd07ff88d2ec6" version="1">Change your shape to that of another Humanoid.</content>
-
+	//Act 1
 	<content contentuid="hd10f7655gca53g4644g9c82g1c6f38212a39" version="1">Shapechange: Lae'zel</content>
 	<content contentuid="h9662a2a7gd696g4531g81a0gb7558b79dd4f" version="1">Shapechange: Karlach</content>
 	<content contentuid="h9efb8816g1a77g4176g8fa4gf027f646a8a5" version="1">Shapechange: Gale</content>
@@ -34,8 +34,20 @@
 	<content contentuid="had5a4aacg2781g4717g8dadgc3ba2dfaef52" version="1">Shapechange: Rolan</content>
 	<content contentuid="h343f5291ge0e9g456dg936bgf7c74b87e2dc" version="1">Shapechange: Halsin</content>
 	<content contentuid="hbf5c5b69gaf7bg45b1g8ae7gdb6bd6386f13" version="1">Shapechange: Minthara</content>
+	<content contentuid="h167e7f5eg89bfg40a9g89e8g154a3b63e20d" version="1">Shapechange: Abdirak</content>
+	<content contentuid="ha1230066gbf0ag4931g97e3g473e2c48af9e" version="1">Shapechange: Dammon</content>
 
+	//Act 2
+	<content contentuid="h7c2c295agd8cfg48e9gbca9g186c7ea197fb" version="1">Shapechange: Aylin</content>
+	<content contentuid="h994e4111g7e19g4d49g97b5g9a9311733df8" version="1">Shapechange: Isobel</content>
+	<content contentuid="h71baafd6g4808g4215g8795gf1a566e42e2b" version="1">Shapechange: Ketheric</content>
+	<content contentuid="hae4ac052g22a5g4b74gb31fgd30317b9418c" version="1">Shapechange: Z'rell</content>
+	<content contentuid="ha6a7f103g6a97g4ddfg84c1g1d8dfea2b724" version="1">Shapechange: Jaheira</content>
 
+	//Act 3
+	<content contentuid="h09d8c12cg3666g4b59g8401g3ab8a8fcf3c0" version="1">Shapechange: Minsc</content>
+
+	//Generic normal
 	<content contentuid="hc4e2d3fbg3317g4585ga1fcg5a3391c826fb" version="1">Shapechange: Base Shape</content>	
 	<content contentuid="h3270ead9g7ee9g45c1gb6e0gde4e8dec074d" version="1">Shapechange: Tiefling Male</content>
 	<content contentuid="h7bb4b035g6cedg49dcga90ag462afca70e7f" version="1">Shapechange: Tiefling Female</content>
@@ -59,7 +71,7 @@
 	<content contentuid="hb9bab66fg2686g4bc7g956dg035a9d3c7660" version="1">Shapechange: Dragonborn Female</content>
 	<content contentuid="h3415669bg8d39g4e11gbfaeg694d79bde061" version="1">Shapechange: Half-Orc Male</content>
 	<content contentuid="h41a4f638g1c21g43e0g9906g5cb75d4cb5ff" version="1">Shapechange: Half-Orc Female</content>
-
+	//Generic Strong
 	<content contentuid="h1f802c8dg1781g4d3fg84d9gdbf9c58c9611" version="1">Shapechange: Strong Human Male</content>
 	<content contentuid="hf703adfcg0e34g47bcg94aag1e97c7365bb9" version="1">Shapechange: Strong Human Female</content>
 	<content contentuid="haad93771g0c2dg4792g9912g2ca05776c8fb" version="1">Shapechange: Strong Drow Male</content>
@@ -70,14 +82,4 @@
 	<content contentuid="h491f604dg5176g4bd3gb565gc02f93ed2780" version="1">Shapechange: Strong Half-Elf Female</content>
 	<content contentuid="h10594fbeg41a4g43aeg8f65g3a93574b1fde" version="1">Shapechange: Strong Tiefling Male</content>
 	<content contentuid="hd9f99933gb606g40cdga38fg4af04fbb8856" version="1">Shapechange: Strong Tiefling Female</content>
-
-
-
-
-
-
-
-
-
-
 </contentList>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!--Jaheira-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="966e8a68-24a0-fd94-8323-74f7b091df7c" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Jaheira" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Jaheira" />
+					<attribute id="Icon" type="FixedString" value="966e8a68-24a0-fd94-8323-74f7b091df7c-EQP_Jaheira_(Icon_Jaheira)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="784db278-3fd9-48f4-b3e2-6676580a51c9" />
+					<attribute id="Name" type="LSString" value="HalfElves_Female_High_Jaheira" />
+					<attribute id="ParentTemplateId" type="FixedString" value="01718a36-3102-4dd2-b141-4f5f042deb10" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="db8f68d4-c84b-2349-886a-d996f4ba5804" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2c948b46-0d8a-426b-ad8b-5f41233df4c1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Z'rell-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1797e161-85c9-4845-b222-30a2f3152cdc" />
+					<attribute id="Icon" type="FixedString" value="520d13dc-4372-42d5-81f0-95651a34108c-MOO_Executioner_(Icon_HalfOrcs_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2ed3cf30-f4e4-43c4-b311-f8e5f61c0eef" />
+					<attribute id="Name" type="LSString" value="Z'rell" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>									
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="ae20615c-be4a-5278-2db7-10b3feade3e1" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>	
+					</children>
+				</node>
+				<!--Ketheric-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="6f584ca1-fb54-4a0c-9398-8073abef626b" />
+					<attribute id="Name" type="LSString" value="Ketheric" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cc2efa0d-d72b-4394-bb11-57f4f494127a" />
+					<attribute id="Icon" type="FixedString" value="e0b84dd2-2a12-2f27-b95c-e870c84550e7-_(Icon_Ketheric)" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8c159e4c-bd2f-4e06-a741-a510fea528c5" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Ketheric" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="ae20615c-be4a-5278-2db7-10b3feade3e1" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>	
+					</children>
+				</node>
+
+				<!--Isobel-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ee1cb13e-3d01-48f7-8ac4-2fae976800db" />
+					<attribute id="Name" type="LSString" value="Isobel" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="cc5165f4-7087-4c1c-8758-6feb649ce376" />
+					<attribute id="ParentTemplateId" type="FixedString" value="055f12f5-eb99-4893-9913-c22f36d233a8" />
+					<attribute id="Icon" type="FixedString" value="19f61161-d9f0-bdcb-aec0-12264a4b5bd5-_(Icon_HalfElf_Female)" />
+
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="ae20615c-be4a-5278-2db7-10b3feade3e1" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>	
+					</children>
+				</node>
+				<!--Nightsong Dame Aylin-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b0caa22e-4a14-427f-a088-a72fd3531614" />
+					<attribute id="Icon" type="FixedString" value="eccecbed-e6e4-fb38-f9ac-6b963d9f7721-_(Icon_Nightsong_Winged)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aea013ac-b893-4cd0-822b-e70770d40015" />
+					<attribute id="Name" type="LSString" value="Nightsong_Aylin" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" />
+					<attribute id="Stats" type="FixedString" value="HeroHumanFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="ae20615c-be4a-5278-2db7-10b3feade3e1" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>	
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

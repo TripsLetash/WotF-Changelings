@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9404e0a4-fafd-47ec-ad6d-52d63cb116ff" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hcf282116g50dcg4e58ga995g638d7ae08e7e" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_CC_Ranger" />
+					<attribute id="Faction" type="guid" value="afb9d9bb-9a52-4737-4d8d-c5c72f32b730" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Minsc" />
+					<attribute id="Icon" type="FixedString" value="9404e0a4-fafd-47ec-ad6d-52d63cb116ff-EQP_CC_Ranger_(Icon_Minsc)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f0fe9d9b-5a45-4d16-bb0c-879c4e27e753" />
+					<attribute id="Name" type="LSString" value="Minsc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="056fffd0-9009-4627-84c2-f0a22e311ec7" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="6acff363-4407-0b10-0a7c-c1e27fe03c58" />
+					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="Origin_Minsc" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26fb71ce-d2c8-44b5-90d6-cb08705cb531" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
