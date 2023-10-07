@@ -2530,12 +2530,6 @@
 											<attribute id="MapKey" type="FixedString" value="02 Colour" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="228ad4dd-ad23-cd5d-b67d-66f7fbdc97f9" />
 										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="03Hair" />
-											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="742499c5-9a8c-ce4c-974f-78f3d652e10e" />
-										</node>
 									</children>
 								</node>
 								<node id="ScalarParameters">
@@ -2843,7 +2837,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="e4d249e4-8984-aa48-ab65-d7ad50954982" />
+							<attribute id="VisualResource" type="FixedString" value="a35b4354-5c1d-f299-e5d4-606cf11bf76f" />
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
