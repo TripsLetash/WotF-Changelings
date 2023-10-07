@@ -46,6 +46,8 @@
 
 	//Act 3
 	<content contentuid="h09d8c12cg3666g4b59g8401g3ab8a8fcf3c0" version="1">Shapechange: Minsc</content>
+	<content contentuid="h622a4988g47f8g40d0g9413gb844c262d80a" version="1">Shapechange: Gortash</content>
+	<content contentuid="ha95005ddged97g430cga1e6gdb4ebdc49174" version="1">Shapechange: Orin</content>
 
 	//Generic normal
 	<content contentuid="hc4e2d3fbg3317g4585ga1fcg5a3391c826fb" version="1">Shapechange: Base Shape</content>	

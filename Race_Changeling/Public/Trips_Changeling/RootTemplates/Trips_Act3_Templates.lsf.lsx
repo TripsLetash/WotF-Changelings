@@ -4,6 +4,51 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Orin-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7219e453-b93b-49e5-acba-e7b0cb834952" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbadeb4ebg2d34g40dbgbe6fg98e464b04279" version="1" />
+					<attribute id="Icon" type="FixedString" value="5095868b-9830-0bf3-5630-078e84430fff-_(Icon_Human_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="1" />
+					<attribute id="MapKey" type="FixedString" value="41ff7e3b-56b6-4969-9375-fea53f920f7d" />
+					<attribute id="Name" type="LSString" value="Orin" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e87dd6f0-22f4-4cd5-914f-adddd2595941" />
+					<attribute id="Stats" type="FixedString" value="Human_Commoner" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Gortash-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="10b11c2c-befb-4650-976e-b407ea6c97ab" />
+					<attribute id="Faction" type="guid" value="cfb709b3-220f-9682-bcfb-6f0d8837462e" />
+					<attribute id="Icon" type="FixedString" value="d11015b6-0734-9300-993c-9e5968680128-EQP_WYR_HeavyCrossbow_Dagger_Gortash_(Icon_Gortash)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="89abdae7-6db2-49e7-8412-eca6e9b6d119" />
+					<attribute id="Name" type="LSString" value="Gortash" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="WYR_Gortash" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209031" />
+					<children>
+						<node id="LocomotionParams"/>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="ece30580-7788-4488-955d-7ee0a32322ed" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="53c3304c-032d-4c49-86df-00b3b03a6b13" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Minsc-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b933b9ae-e37a-95ff-0801-1dd31069ecfc" />
 					<attribute id="Faction" type="guid" value="afb9d9bb-9a52-4737-4d8d-c5c72f32b730" />
