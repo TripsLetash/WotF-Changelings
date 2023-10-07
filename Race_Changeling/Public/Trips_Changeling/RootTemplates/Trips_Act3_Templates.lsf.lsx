@@ -4,6 +4,56 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--The Dark Urge-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2973569b-b860-46b5-bd51-1e20fd7788ac" />
+					<attribute id="Icon" type="FixedString" value="93cc0e08-879e-0b32-2de6-44a4d595c2da-EQP_Greatsword_(Icon_Dragonborn_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5a7ceb98-ab9e-4c47-ac44-72b4aa850e4c" />
+					<attribute id="Name" type="LSString" value="The Dark Urge" />
+					<attribute id="Stats" type="FixedString" value="HeroDragonbornMale" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1f69a29f-8284-4d1d-a0e6-fba9fb02ac56" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="57e99f32-126e-eff7-cc5d-401d51b5cadc" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="5071a4ae-43eb-21ac-4a2e-46fe28d77347" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="3cd7de78-c1f5-106e-87b6-f6a6285df747" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e6d33a9e-002b-c636-7561-369563116fbe" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="5face19a-48fc-642a-b0b6-94fb0ea66cc3" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="572af713-af5a-6cc2-22c3-12d07edcaee6" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="232eb0bb-9b4e-ad4e-a17b-21b69401f040" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 				<!--Sarevok-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="310238ae-2483-4f29-951a-2543620dcba5" />
