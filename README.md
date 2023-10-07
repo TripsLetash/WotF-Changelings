@@ -21,6 +21,7 @@ Abdirak
 Dammon
 Florrick
 Gandrel
+The Dark Urge
 
 //Act 2 : Level 7
 
@@ -42,7 +43,6 @@ Kith'rak Voss
 Nocturne
 Lucretious
 Sarevok
-The Dark Urge
 Ulder
 Viconia
 Cazador
