@@ -4,6 +4,35 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="07951402-5b22-4fc3-be8b-0022e9b235b2" />
+					<attribute id="Icon" type="FixedString" value="dc5589d3-5f3b-0ac4-ef9d-88c34dd85f9c-EQP_Unarmed_(Icon_Raphael_Human)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f0e433d1-1a26-41fe-a520-c3f22733baa1" />
+					<attribute id="Name" type="LSString" value="Raphael_Human" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--He Who Was (Shadar-Kai)-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e0bde1a4-0b66-47d3-b050-650a6db21bd6" />
+					<attribute id="Icon" type="FixedString" value="b0fc0399-d524-0c4f-e366-0251943caf25-_(Icon_Elf_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b725b6f8-b368-46c6-85f9-a8f56cc8d51e" />
+					<attribute id="Name" type="LSString" value="UNI_SCL_ShadarKai" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cc2efa0d-d72b-4394-bb11-57f4f494127a" />
+					<attribute id="SpellSet" type="FixedString" value="CommonNPCActions" />
+					<attribute id="Stats" type="FixedString" value="Elf_Commoner" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 				<!--Jaheira-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="966e8a68-24a0-fd94-8323-74f7b091df7c" />
