@@ -44,6 +44,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
                         </node>
+                        <node id="Tag">
+							<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+						</node>	
                         <node id="TattooColors">
                             <attribute id="Object" type="guid" value="8f8019ae-4c7d-4871-8479-1219fbf6ba7e"/>
                         </node>

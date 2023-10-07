@@ -20,6 +20,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>	
 							</children>
 						</node>
 						<node id="LocomotionParams" />
@@ -38,6 +41,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692752" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Duke Ravengard-->
@@ -52,6 +62,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--The Dark Urge-->
@@ -100,6 +117,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -116,6 +136,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Lucretious-->
@@ -131,6 +158,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Nocturne-->
@@ -145,6 +179,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Kithrak Voss-->
@@ -158,6 +199,13 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f7736aa4-33b0-406d-a56a-dbf99535a0c8" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Orin-->
@@ -175,6 +223,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Gortash-->
@@ -200,6 +255,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="53c3304c-032d-4c49-86df-00b3b03a6b13" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>	
 							</children>
 						</node>
 					</children>

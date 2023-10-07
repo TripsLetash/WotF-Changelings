@@ -17,6 +17,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Florrick-->
@@ -36,6 +43,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Wyll (Altered)-->
@@ -134,6 +148,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="54d84ff5-73f6-4eaf-aa92-0fec99cdace0" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -162,7 +179,14 @@
 									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
 								</node>
 							</children>
-						</node>					
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Minthara-->
@@ -190,11 +214,10 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="542b58f0-42ad-4157-a28e-27434e0e7b18" />
-								</node>
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
 							</children>
 						</node>
-
 					</children>
 				</node>
 				<!--Halsin-->
@@ -216,6 +239,9 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
@@ -257,6 +283,9 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
@@ -303,6 +332,9 @@
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
 								</node>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>
 							</children>
@@ -344,6 +376,9 @@
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
 								</node>
 								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>
+								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
 								</node>
 							</children>
@@ -383,6 +418,9 @@
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />

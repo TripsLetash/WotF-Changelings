@@ -16,6 +16,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Raphael Human-->
@@ -30,6 +37,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>						
 					</children>
 				</node>
 				<!--He Who Was (Shadar-Kai)-->
@@ -46,6 +60,13 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>						
 					</children>
 				</node>
 				<!--Jaheira-->
@@ -71,6 +92,9 @@
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
 								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -98,6 +122,13 @@
 								</node>
 							</children>
 						</node>	
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
+						</node>	
 					</children>
 				</node>
 				<!--Ketheric-->
@@ -121,6 +152,13 @@
 								<node id="SpeakerGroup">
 									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
 								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
 							</children>
 						</node>	
 					</children>
@@ -156,6 +194,13 @@
 									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
 								</node>
 							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
+							</children>
 						</node>	
 					</children>
 				</node>
@@ -181,6 +226,13 @@
 								<node id="SpeakerGroup">
 									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
 								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>				
 							</children>
 						</node>	
 					</children>
