@@ -4,6 +4,33 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Nocturne-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="3bb8c2ea-e667-476f-8115-819f0729c5c2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d6e11060-e5aa-462f-8cc2-6dad6de59d72" />
+					<attribute id="Icon" type="FixedString" value="fe1e93d0-0aab-12bd-bd64-57933fdeb0f3-_(Icon_Tiefling_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d8f41bf3-8eb8-4ede-90ab-42a50dea6c73" />
+					<attribute id="Name" type="LSString" value="Nocturne" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Githrak Voss-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2b5ebdb9-94d4-4f41-9716-fc781102b55b" />
+					<attribute id="Name" type="LSString" value="Githrak Voss" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="de838c80-5a17-4165-81ee-13d79194b629" />
+					<attribute id="Icon" type="FixedString" value="bd0ca6ec-fdac-bbab-2c5f-b9f29be07eba-EQ_GLO_Voss_(Icon_Githyanki_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f7736aa4-33b0-406d-a56a-dbf99535a0c8" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 				<!--Orin-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="7219e453-b93b-49e5-acba-e7b0cb834952" />
