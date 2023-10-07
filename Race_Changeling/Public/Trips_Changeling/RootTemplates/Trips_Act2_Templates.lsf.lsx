@@ -5,6 +5,21 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b039256c-142f-4088-bc79-44e7c36a9fff" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h452cf8ffg777ag4928gb74egda9ae19413dc" version="2" />
+					<attribute id="Icon" type="FixedString" value="4963cb0e-05db-5932-71d1-9fe5aef10bdb-EQP_HandCrossbow_Leather_Dagger_(Icon_Drow_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="01718a36-3102-4dd2-b141-4f5f042deb10" />
+					<attribute id="MapKey" type="FixedString" value="517eff95-4448-4540-b544-14c54a14efda" />
+					<attribute id="Name" type="LSString" value="Araj" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Raphael Human-->
+				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="07951402-5b22-4fc3-be8b-0022e9b235b2" />
 					<attribute id="Icon" type="FixedString" value="dc5589d3-5f3b-0ac4-ef9d-88c34dd85f9c-EQP_Unarmed_(Icon_Raphael_Human)" />
 					<attribute id="LevelName" type="FixedString" value="" />

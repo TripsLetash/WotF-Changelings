@@ -12,6 +12,13 @@ data "StatusGroups" "SG_RemoveOnRespec;IgnoreResting"
 data "StatusEffect" "43248db1-c7e1-424d-935e-516d8071cf66"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
+new entry "SHAPESHIFT_TRIPS_ARAJ"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hef306c61g9239g431eg83e0g84a98805b304"
+data "TemplateID" "517eff95-4448-4540-b544-14c54a14efda"
+
 new entry "SHAPESHIFT_TRIPS_RAPHAEL"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
