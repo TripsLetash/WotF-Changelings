@@ -9,7 +9,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
 					<attribute id="ID" type="FixedString" value="07951402-5b22-4fc3-be8b-0022e9b235b2" />
 					<attribute id="Name" type="LSString" value="Raphael_Human" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="MaterialOverrides">
