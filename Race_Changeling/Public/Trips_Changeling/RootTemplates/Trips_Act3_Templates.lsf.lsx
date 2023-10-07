@@ -4,6 +4,35 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Viconia-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="86d716e9-1bd1-406b-a283-8c6ca697d8f8" />
+					<attribute id="Icon" type="FixedString" value="bd843e87-e62b-1007-83ce-4069e8ebc448-EQP_LOW_HouseOfGrief_Viconia_(Icon_Viconia)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e285d7b5-6b09-4857-89aa-a91e9e6898e5" />
+					<attribute id="MapKey" type="FixedString" value="39e718d5-5598-4876-9983-ce0c2e0f2953" />
+					<attribute id="Name" type="LSString" value="Viconia" />
+					<attribute id="SpellSet" type="FixedString" value="CommonNPCActions_NoThrow" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692752" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<!--Duke Ravengard-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="57f718fc-fe0b-4328-8d34-30e4d9cda616" />
+					<attribute id="Icon" type="FixedString" value="a98823ea-8a96-c5fe-a5cc-c16f5e143471-EQP_GLO_Longsword_Shield_Plate_Ravengard_(Icon_Human_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9c8b23d7-b41f-45b9-8c0e-773d4dc9c5aa" />
+					<attribute id="Name" type="LSString" value="Duke Ravengard" />
+					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
 				<!--The Dark Urge-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="2973569b-b860-46b5-bd51-1e20fd7788ac" />
