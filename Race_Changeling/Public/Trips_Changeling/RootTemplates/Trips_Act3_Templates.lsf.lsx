@@ -10,7 +10,7 @@
 					<attribute id="Name" type="LSString" value="Cazador" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="bfb31ea0-c6b3-4677-8c6e-662e089c18fb" />
 					<attribute id="Icon" type="FixedString" value="39fd0efa-ae2d-a7e2-e07d-79b90a070367-_(Icon_Cazador)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="693b2616-174c-43cd-8df0-8803a2d22d4d" />
 					<attribute id="Archetype" type="FixedString" value="act3_LOW_cazador" />
@@ -119,7 +119,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="9c8b23d7-b41f-45b9-8c0e-773d4dc9c5aa" />
 					<attribute id="Name" type="LSString" value="Duke Ravengard" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -221,7 +221,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="070e2269-b99f-4512-9b5a-a24ceea278d6" />
 					<attribute id="Name" type="LSString" value="Sarevok" />
-					<attribute id="ParentTemplateId" type="FixedString" value="ebd19426-c110-47f1-9137-9fb306b719cc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="056fffd0-9009-4627-84c2-f0a22e311ec7" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
@@ -277,7 +277,7 @@
 					<attribute id="MapKey" type="FixedString" value="08dab9a0-31ac-4770-8a8d-f9ebde6cb1e4" />
 					<attribute id="Name" type="LSString" value="Lucretious" />
 					<attribute id="Stats" type="FixedString" value="WYR_Lucretious" />
-					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3303e8f6-a7e4-4b24-b64c-d64bbc152803" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
@@ -325,7 +325,7 @@
 				<!--Nocturne-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3bb8c2ea-e667-476f-8115-819f0729c5c2" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d6e11060-e5aa-462f-8cc2-6dad6de59d72" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7fada45e-9347-4530-8193-1fcd0242d8dd" />
 					<attribute id="Icon" type="FixedString" value="fe1e93d0-0aab-12bd-bd64-57933fdeb0f3-_(Icon_Tiefling_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="d8f41bf3-8eb8-4ede-90ab-42a50dea6c73" />
@@ -383,7 +383,7 @@
 					<attribute id="Name" type="LSString" value="Kith'rak Voss" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="de838c80-5a17-4165-81ee-13d79194b629" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ba63c9de-13fc-4011-94a1-0ca11c29893e" />
 					<attribute id="Icon" type="FixedString" value="bd0ca6ec-fdac-bbab-2c5f-b9f29be07eba-EQ_GLO_Voss_(Icon_Githyanki_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f7736aa4-33b0-406d-a56a-dbf99535a0c8" />
 					<children>
@@ -434,7 +434,7 @@
 					<attribute id="LevelOverride" type="int32" value="1" />
 					<attribute id="MapKey" type="FixedString" value="41ff7e3b-56b6-4969-9375-fea53f920f7d" />
 					<attribute id="Name" type="LSString" value="Orin" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e87dd6f0-22f4-4cd5-914f-adddd2595941" />
+					<attribute id="ParentTemplateId" type="FixedString" value="df4aee69-40ea-480d-aa96-1abe82c28b66" />
 					<attribute id="Stats" type="FixedString" value="Human_Commoner" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
@@ -488,7 +488,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="89abdae7-6db2-49e7-8412-eca6e9b6d119" />
 					<attribute id="Name" type="LSString" value="Gortash" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="WYR_Gortash" />
 					<attribute id="Type" type="FixedString" value="character" />

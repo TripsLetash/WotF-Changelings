@@ -9,7 +9,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="a744fead-46b9-4358-a7a6-f7ff357cd8d8" />
 					<attribute id="Icon" type="FixedString" value="832affa0-2b75-71b1-e669-0d506ec1c7b3-EQP_Gandrel_(Icon_Human_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="MapKey" type="FixedString" value="464310d0-f462-47a7-820a-c611c7124a4e" />
 					<attribute id="Name" type="LSString" value="Gandrel" />
 					<attribute id="Stats" type="FixedString" value="HAG_GurHunter" />
@@ -63,7 +63,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="b0aaf216-2621-4d09-942b-54c70a8e6e53" />
 					<attribute id="Name" type="LSString" value="Florrick" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e285d7b5-6b09-4857-89aa-a91e9e6898e5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f08563b3-748d-4783-837b-b8620bc60b22" />
 					<attribute id="Race" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
 					<attribute id="Stats" type="FixedString" value="GLO_CounsellorFlorrick" />
 					<attribute id="Title" type="TranslatedString" handle="h62d4f5b8g196dg4139gb7a5gc251acae2c39" version="1" />
@@ -120,7 +120,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="f4242666-04af-4cfa-8f86-a8b3c164d5cd" />
 					<attribute id="Name" type="LSString" value="Wyll Devil" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -172,7 +172,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae" />
 					<attribute id="Faction" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a" />
 					<attribute id="Icon" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae-EQP_Scimitar_Leather_(Icon_Tiefling_Male)" />
-					<attribute id="ParentTemplateId" type="FixedString" value="a5856190-08e3-4741-b697-8b1cbf03eaa1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="4dd9d779-8e17-476d-8e7b-60647411b54d" />
 					<attribute id="Name" type="LSString" value="Dammon" />
@@ -226,7 +226,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="43d0d383-8891-46a3-aae6-26697bc5db19" />
 					<attribute id="Name" type="LSString" value="Abdirak" />					
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />								
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -335,7 +335,7 @@
 					<attribute id="Name" type="LSString" value="Halsin" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="839638fe-874d-4ff0-9b58-3b504f0a6cd6" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e294ea88-f404-4888-aadd-984ccab70d95" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d211a1f4-7686-4cd7-957c-8d1fed02f109" />
 					<attribute id="Faction" type="guid" value="2baed7c7-ff55-4d74-8f1b-b0fc53ccad60" />
 					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
@@ -392,7 +392,7 @@
 					<attribute id="Name" type="LSString" value="Zevlor" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="a5856190-08e3-4741-b697-8b1cbf03eaa1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2" />
 					<attribute id="Icon" type="FixedString" value="6b49f80c-3ce2-cfe8-f569-5202f8f09f23-DEN_TieflingLeader_(Icon_Tiefling_Male)" />
 					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
@@ -448,7 +448,7 @@
 					<attribute id="Name" type="LSString" value="Alfira" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d6e11060-e5aa-462f-8cc2-6dad6de59d72" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
 					<attribute id="Icon" type="FixedString" value="1ab11041-a5b8-7f62-ced5-a6bc1179c0e3-EQP_Unarmed_Lute_(Icon_Tiefling_Female)" />
 					<attribute id="Stats" type="FixedString" value="HeroTieflingFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
@@ -504,7 +504,7 @@
 					<attribute id="Name" type="LSString" value="Kagha" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e87dd6f0-22f4-4cd5-914f-adddd2595941" />
+					<attribute id="ParentTemplateId" type="FixedString" value="50e44ccc-28a0-44eb-998e-f085f7fe8f7c" />
 					<attribute id="Icon" type="FixedString" value="0774cbd6-d405-bfbf-4b75-0d4681f83f69-DEN_Kagha_(Icon_Elf_Female)" />			
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
@@ -560,7 +560,7 @@
 					<attribute id="Name" type="LSString" value="Rolan" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />			
-					<attribute id="ParentTemplateId" type="FixedString" value="a5856190-08e3-4741-b697-8b1cbf03eaa1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2" />
 					<attribute id="Icon" type="FixedString" value="076b2615-deef-f914-61a7-ac1972683de8-EQP_Staff_Robe_(Icon_Tiefling_Male)" />
 					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
@@ -609,6 +609,7 @@
 						</node>
 					</children>
 				</node>
+				<!--Wyll Normal-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="bdeebe6f-4e34-ae70-5f25-ea0eadb77a34" />
 					<attribute id="Faction" type="guid" value="6545a015-1b3d-66a4-6a0e-6ec62065cdb7" />
@@ -617,7 +618,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="c1350e49-6930-48cb-b2be-a4efad1f044d" />
 					<attribute id="Name" type="LSString" value="Wyll" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -688,7 +689,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="0838b8da-967c-4bf1-a2a3-74156dbf81b6" />
 					<attribute id="Name" type="LSString" value="Shadowheart" />
-					<attribute id="ParentTemplateId" type="FixedString" value="055f12f5-eb99-4893-9913-c22f36d233a8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="01718a36-3102-4dd2-b141-4f5f042deb10" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHalfElfFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -747,7 +748,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="629ef395-a08c-44e7-9664-f2dc511aeec5" />
 					<attribute id="Name" type="LSString" value="Astarion" />
-					<attribute id="ParentTemplateId" type="FixedString" value="f0930afd-8be6-410e-bae3-b0253262f861" />
+					<attribute id="ParentTemplateId" type="FixedString" value="bfb31ea0-c6b3-4677-8c6e-662e089c18fb" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -808,7 +809,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="4fde16ab-eaf2-48d9-a915-4f9785910025" />
 					<attribute id="Name" type="LSString" value="Gale" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanMale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -864,7 +865,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="d640b834-1e69-49ad-9c7b-6cf7396b28ff" />
 					<attribute id="Name" type="LSString" value="Laezel" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7bb034aa-d355-4973-9b61-4d83cf29d510" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7bb034aa-d355-4973-9b61-4d83cf29d510" />7bb034aa-d355-4973-9b61-4d83cf29d510
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroGithFemale" />
 					<attribute id="VocalLaughterResourceID" type="FixedString" value="2b3255d8-a94d-4ae7-8915-c7236d275543" />
@@ -918,7 +919,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="8d26ee24-b927-4915-a371-b2f25fc102e9" />
 					<attribute id="Name" type="LSString" value="Karlach" />
-					<attribute id="ParentTemplateId" type="FixedString" value="8d9024d8-ac09-4745-b04f-793595ea94c3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="541e214e-d183-4c69-8c46-76c6cab0a52b" />8d9024d8-ac09-4745-b04f-793595ea94c3
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="HeroTieflingFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -960,8 +961,8 @@
 								<node id="Tag"><!--Tiefling-->
 									<attribute id="Object" type="guid" value="7bf7207f-7406-49c0-b501-eaaa2bb4efd7" />
 								</node>
-								<node id="Tag"><!--Zariel Tiefling-->
-									<attribute id="Object" type="guid" value="3a5efd84-5925-4a75-83ee-4f336b56f716" />
+								<node id="Tag"><!--Mephistophiles Tiefling-->
+									<attribute id="Object" type="guid" value="c70e1dc2-72d4-44f9-83fd-c63d247edd9b" />
 								</node>
 								<node id="Tag"><!--Baldurian-->
 									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />

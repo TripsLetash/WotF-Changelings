@@ -42,7 +42,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f6ef376a-9a7d-42c3-9628-892f2e17ac76" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="Trips_Changeling_Fem" />
-					<attribute id="ParentTemplateId" type="FixedString" value="5fd99058-5221-4ca9-81d2-53d010cb277e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7bb034aa-d355-4973-9b61-4d83cf29d510" />
 					<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />					
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingFemale" />

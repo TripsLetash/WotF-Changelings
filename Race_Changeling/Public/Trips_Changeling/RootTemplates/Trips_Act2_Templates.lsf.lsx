@@ -9,7 +9,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h452cf8ffg777ag4928gb74egda9ae19413dc" version="2" />
 					<attribute id="Icon" type="FixedString" value="4963cb0e-05db-5932-71d1-9fe5aef10bdb-EQP_HandCrossbow_Leather_Dagger_(Icon_Drow_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="ParentTemplateId" type="FixedString" value="01718a36-3102-4dd2-b141-4f5f042deb10" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e285d7b5-6b09-4857-89aa-a91e9e6898e5" />
 					<attribute id="MapKey" type="FixedString" value="517eff95-4448-4540-b544-14c54a14efda" />
 					<attribute id="Name" type="LSString" value="Araj" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -63,7 +63,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="f0e433d1-1a26-41fe-a520-c3f22733baa1" />
 					<attribute id="Name" type="LSString" value="Raphael_Human" />
-					<attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144255925564211200" />
 					<children>
@@ -107,7 +107,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e0bde1a4-0b66-47d3-b050-650a6db21bd6" />
 					<attribute id="Icon" type="FixedString" value="b0fc0399-d524-0c4f-e366-0251943caf25-_(Icon_Elf_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="b725b6f8-b368-46c6-85f9-a8f56cc8d51e" />
+					<attribute id="MapKey" type="FixedString" value="bc3cde9c-cf02-48ff-b44f-a53a1e009a35" />
 					<attribute id="Name" type="LSString" value="He Who Was" />
 					<attribute id="ParentTemplateId" type="FixedString" value="cc2efa0d-d72b-4394-bb11-57f4f494127a" />
 					<attribute id="SpellSet" type="FixedString" value="CommonNPCActions" />
@@ -200,10 +200,7 @@
 								</node>	
 								<node id="Tag"><!--Half Elf-->
 									<attribute id="Object" type="guid" value="277f9609-ad0c-4883-b56d-0850904e88df" />
-								</node>	
-								<node id="Tag"><!--Wood Half Elf-->
-									<attribute id="Object" type="guid" value="8ac1b27c-c5c4-4a2c-95dd-256e4349e483" />
-								</node>	
+								</node>
 								<node id="Tag"><!--Druid-->
 									<attribute id="Object" type="guid" value="44ac4317-4d38-4d28-80e2-94024c6e42f0" />
 								</node>	
@@ -218,7 +215,7 @@
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="2ed3cf30-f4e4-43c4-b311-f8e5f61c0eef" />
 					<attribute id="Name" type="LSString" value="Z'rell" />
-					<attribute id="ParentTemplateId" type="FixedString" value="a31730e7-73b9-4c34-b14a-d9bcd2366cb2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cf7809c0-2b84-4062-8aef-0184ccea4aba" />
 					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
@@ -324,9 +321,8 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="cc5165f4-7087-4c1c-8758-6feb649ce376" />
-					<attribute id="ParentTemplateId" type="FixedString" value="055f12f5-eb99-4893-9913-c22f36d233a8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="01718a36-3102-4dd2-b141-4f5f042deb10" />
 					<attribute id="Icon" type="FixedString" value="19f61161-d9f0-bdcb-aec0-12264a4b5bd5-_(Icon_HalfElf_Female)" />
-
 					<children>
 						<node id="Tags">
 							<children>
@@ -384,7 +380,7 @@
 					<attribute id="MapKey" type="FixedString" value="aea013ac-b893-4cd0-822b-e70770d40015" />
 					<attribute id="Name" type="LSString" value="Nightsong_Aylin" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3303e8f6-a7e4-4b24-b64c-d64bbc152803" />
 					<attribute id="Stats" type="FixedString" value="HeroHumanFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />

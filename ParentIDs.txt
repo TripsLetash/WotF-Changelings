@@ -1,0 +1,106 @@
+
+    BASE_Tieflings_Male_Mephistopheles              4eb632fa-e07f-495e-9788-c59f16f43e21
+    BASE_Tieflings_Male_Asmodeus                    6f881126-478f-43a4-ba02-c024cf03a212
+    BASE_Tieflings_Male_Zariel                      2609ea6d-f065-4c0f-877f-ebecb988c478
+
+    BASE_Tieflings_Female_Mephistopheles            8d9024d8-ac09-4745-b04f-793595ea94c3
+    BASE_Tieflings_Female_Asmodeus                  619e1ca1-2467-42a3-abb2-627e8ce527c3
+    BASE_Tieflings_Female_Zariel                    8b257df7-fa53-42d7-bd43-8282d8473a35
+
+Humans_Male_Player			                    fd7f2707-8f86-4836-bda8-e0db99c389cc
+Humans_Male_Strong_Player       	            056fffd0-9009-4627-84c2-f0a22e311ec7
+Humans_Female_Player   		                    df4aee69-40ea-480d-aa96-1abe82c28b66
+Humans_Female_Strong_Player   		            3303e8f6-a7e4-4b24-b64c-d64bbc152803
+
+Githyanki_Male_Player		                    ba63c9de-13fc-4011-94a1-0ca11c29893e
+Githyanki_Female_Player	        	            7bb034aa-d355-4973-9b61-4d83cf29d510
+
+Tieflings_Male_Mephistopheles_Player            498af440-0d7d-40e5-a7f1-141ce68bbfed
+Tieflings_Male_Mephistopheles_Player_Strong     76b33e27-4a95-4e0d-8113-81b5c61fc2e1
+Tieflings_Male_Asmodeus_Player                  cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2
+Tieflings_Male_Asmodeus_Player_Strong           e2a05c9a-7366-4833-86e8-80764e111b71
+Tieflings_Male_Zariel_Player                    1fde348c-ea64-4ca6-a20c-b6841fbd3e43
+Tieflings_Male_Zariel_Player_Strong             3232f9b3-2ad5-442c-9861-92624b258e5b
+
+Tieflings_Female_Mephistopheles_Player          7fada45e-9347-4530-8193-1fcd0242d8dd
+Tieflings_Female_Mephistopheles_Player_Strong   541e214e-d183-4c69-8c46-76c6cab0a52b
+Tieflings_Female_Asmodeus_Player                aadac54f-38c0-4486-b45f-01c30e2e9323
+Tieflings_Female_Asmodeus_Player_Strong         7abd78c4-41cc-4910-aaf2-4e06fd314303
+Tieflings_Female_Zariel_Player                  99748fb4-4e64-4e7f-8c39-71fa880d2b30
+Tieflings_Female_Zariel_Player_Strong           7c098ecd-b4d5-4431-bd31-de6bc1886725
+
+Elves_Male_Wood_Player                          7c6da5a0-f068-49cc-86d8-a30af1ece7ac
+Elves_Male_Wood_Player_Strong                   e294ea88-f404-4888-aadd-984ccab70d95
+Elves_Male_High_Player                          bfb31ea0-c6b3-4677-8c6e-662e089c18fb
+Elves_Male_High_Player_Strong                   f744622b-7104-4e7a-84d0-0a9aca579a1c
+
+Elves_Female_Wood_Player                        50e44ccc-28a0-44eb-998e-f085f7fe8f7c
+Elves_Female_Wood_Player_Strong                 04a44672-c84b-49fe-a3e8-796eb40c8a15
+Elves_Female_High_Player                        f08563b3-748d-4783-837b-b8620bc60b22
+Elves_Female_High_Player_Strong                 71906e50-a5c0-41a8-843a-4c668b79841f
+
+HalfElves_Male_Wood_Player                      80e26779-a7a8-4ac2-a934-5616ab5db8d7
+HalfElves_Male_Wood_Player_Strong               db42af19-b9c0-44f0-bba8-dd320b190492
+HalfElves_Male_High_Player                      cc2efa0d-d72b-4394-bb11-57f4f494127a
+HalfElves_Male_High_Player_Strong               86b9b8fb-87bd-4a19-a034-adb38d7d90ab
+
+HalfElves_Female_Wood_Player                    79823ceb-01e6-4edd-962a-51cc9d00573a
+HalfElves_Female_Wood_Player_Strong             c09d882c-677e-4089-a810-a62f21bf0487
+HalfElves_Female_High_Player                    01718a36-3102-4dd2-b141-4f5f042deb10
+HalfElves_Female_High_Player_Strong             83d30a0f-aa95-4447-863e-1007208ac7bf
+
+Dwarves_Male_Mountain_Player                    bf348a66-d31d-4745-900a-250edc3cc641
+Dwarves_Male_Duergar_Player                     be3d3a2b-9ecb-4dbe-9441-8995b618e895
+Dwarves_Male_Hill_Player                        72f584af-b29b-4e79-be4a-a175b2e1f864
+
+Dwarves_Female_Mountain_Player                  9ae40e0d-6d9a-4570-8384-e92b3dac492f
+Dwarves_Female_Duergar_Player                   483ef445-facf-4a3b-aeff-6863d890975e
+Dwarves_Female_Hill_Player                      70cddf7f-fab6-4470-9815-85c255e05d27
+
+Halflings_Male_Stout_Player                     b18d6de5-7861-42fe-a464-8be9a67cfd16
+Halflings_Male_Lightfoot_Player                 598cd559-3fb9-4b23-a3b8-a8b5b5d7b8f7
+
+Halflings_Female_Stout_Player                   0c44cf75-a73c-4165-b57e-8a4af925214e
+Halflings_Female_Lightfoot_Player               18878721-88ef-4dbc-a760-d1f6a9a20aea
+
+Gnomes_Male_Deep_Player                         f660278d-6b97-4bfd-850d-66d40fd89d78
+Gnomes_Male_Forest_Player                       130fc56f-4361-41a4-955b-fee0e4541670
+
+Gnomes_Female_Deep_Player                       ddb47381-471d-41ea-b269-2702ab9d7f83
+Gnomes_Female_Forest_Player                     7b532ee4-f59d-418c-8eff-7b6df269c355
+
+Elves_Male_Drow_Lolth_Player                    bc3cde9c-cf02-48ff-b44f-a53a1e009a35
+Elves_Male_Drow_Lolth_Player_Strong             4a69511d-eb58-407c-a4f7-c774a8cc7b83
+Elves_Male_Drow_Seldarine_Player                091745ab-6acc-46be-8902-5aa61aa94815
+Elves_Male_Drow_Seldarine_Player_Strong         230cf7e3-4040-4706-b6ba-22c552d3569a
+
+Elves_Female_Drow_Lolth_Player                  e285d7b5-6b09-4857-89aa-a91e9e6898e5
+Elves_Female_Drow_Lolth_Player_Strong           26931701-4e21-42e2-94b4-d294884565aa
+Elves_Female_Drow_Seldarine_Player              7a727073-1f49-4396-b899-b71d9d706cd5
+Elves_Female_Drow_Seldarine_Player_Strong       230cf7e3-4040-4706-b6ba-22c552d3569a
+
+Dragonborn_Red_Male_Player                      3de79eab-402e-4a70-8716-dfd32a492110
+Dragonborn_Green_Male_Player                    ae902e1b-0496-4a77-be90-e7b601b3b830
+Dragonborn_Blue_Male_Player                     e7efb92e-c944-4840-abf1-e125a7436b4e
+Dragonborn_Gold_Male_Player                     d30bb765-ecb4-4029-94c2-cfdcf4b2b75f
+Dragonborn_Silver_Male_Player                   8b607fe5-7217-4975-872c-f380f9a52041
+Dragonborn_Copper_Male_Player                   4de6d8b2-d0c3-49c1-b332-b3761cfcfb33
+Dragonborn_Brass_Male_Player                    da2036b9-1602-4262-a82e-d16e6ea181f2
+Dragonborn_White_Male_Player                    1f69a29f-8284-4d1d-a0e6-fba9fb02ac56
+Dragonborn_Bronze_Male_Player                   15c90da6-2c31-4cc7-9cba-d30a5155d5b9
+Dragonborn_Black_Male_Player                    465db991-7868-43ea-8190-36a725096f49
+
+Dragonborn_Red_Female_Player                    9eddde7c-27b1-4e9a-8a19-0d9f3996ffa4
+Dragonborn_Green_Female_Player                  8517cdc1-b179-499b-9c25-4ac9396b3249
+Dragonborn_Blue_Female_Player                   834579dd-3f0c-495f-be61-721854a279ce
+Dragonborn_Gold_Female_Player                   4151f7ff-6b19-4d5f-aa54-bea130d0d0a1
+Dragonborn_Silver_Female_Player                 2ab6daaa-54b4-4836-92aa-3579da76f574
+Dragonborn_Copper_Female_Player                 1d8afdc2-1403-4570-b7ce-3f3ae94f325b
+Dragonborn_Brass_Female_Player                  1b702a85-60f3-4197-9e58-bb87901a3f48
+Dragonborn_White_Female_Player                  101f3588-8b35-4ca6-ba7b-33216158b3d4
+Dragonborn_Bronze_Female_Player                 0b77848f-dd46-42d3-a902-f10ed9457590
+Dragonborn_Black_Female_Player                  0a3f21d0-7714-4c41-a32a-5ee4a152391a
+
+HalfOrcs_Male_Player                            51af09b7-6062-4d8e-88d0-09e9225b06e6
+HalfOrcs_Female_Player                          cf7809c0-2b84-4062-8aef-0184ccea4aba
+
