@@ -17,27 +17,43 @@
 					<children>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Male-->
 									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
 								</node>	
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Elf-->
+									<attribute id="Object" type="guid" value="772b1dc6-14be-417f-afa3-c6cf364f45b4" />
+								</node>
+								<node id="Tag"><!--High Elf-->
+									<attribute id="Object" type="guid" value="78884c5f-9504-41af-912d-ce212df0ebea" />
+								</node>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
+								</node>
 							</children>
 						</node>
 						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 				<!--Viconia-->
@@ -52,24 +68,46 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692752" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Drow-->
+									<attribute id="Object" type="guid" value="676e854b-d74b-44f3-8363-3ef27164a54d" />
+								</node>	
+								<node id="Tag"><!--Lolth Drow-->
+									<attribute id="Object" type="guid" value="c71eb8de-74e3-4d70-9826-22da7e2dc607" />
+								</node>	
+								<node id="Tag"><!--Underdark-->
+									<attribute id="Object" type="guid" value="2d0a73b9-f113-4d35-bdee-a31ab9163d74" />
+								</node>		
+								<node id="Tag"><!--Cleric-->
+									<attribute id="Object" type="guid" value="1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -85,24 +123,43 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>	
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
+								<node id="Tag"><!--Fighter-->
+									<attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
 							</children>
 						</node>
 					</children>
@@ -123,51 +180,36 @@
 						<node id="SpeakerGroupList">
 							<children>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="57e99f32-126e-eff7-cc5d-401d51b5cadc" />
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
 								</node>
 								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="5071a4ae-43eb-21ac-4a2e-46fe28d77347" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="3cd7de78-c1f5-106e-87b6-f6a6285df747" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="e6d33a9e-002b-c636-7561-369563116fbe" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="5face19a-48fc-642a-b0b6-94fb0ea66cc3" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="572af713-af5a-6cc2-22c3-12d07edcaee6" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="232eb0bb-9b4e-ad4e-a17b-21b69401f040" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="cec95bfb-b4e3-eae9-9560-381fea98df93" />
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
 								</node>
 							</children>
 						</node>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Dragonborn-->
+									<attribute id="Object" type="guid" value="39783f17-8484-46a6-aa3b-f3d51122e5f3" />
+								</node>
+								<node id="Tag"><!--The Dark Urge-->
 									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
 								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>	
 							</children>
 						</node>
 					</children>
@@ -183,24 +225,46 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
+								<node id="Tag"><!--Dark Urge-->
+									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
 								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Barbarian-->
+									<attribute id="Object" type="guid" value="02913f9a-f696-40cf-acdf-32032afab32c" />
+								</node>
 							</children>
 						</node>
 					</children>
@@ -217,24 +281,43 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Wizard-->
+									<attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -250,24 +333,46 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Tiefling-->
+									<attribute id="Object" type="guid" value="7bf7207f-7406-49c0-b501-eaaa2bb4efd7" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
+								<node id="Tag"><!--Mephitospeheles Tief-->
+									<attribute id="Object" type="guid" value="c70e1dc2-72d4-44f9-83fd-c63d247edd9b" />
+								</node>	
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Rogue-->
+									<attribute id="Object" type="guid" value="f8a0608b-666c-4be6-a49c-03b369c10bd2" />
+								</node>		
 							</children>
 						</node>
 					</children>
@@ -282,24 +387,40 @@
 					<attribute id="Icon" type="FixedString" value="bd0ca6ec-fdac-bbab-2c5f-b9f29be07eba-EQ_GLO_Voss_(Icon_Githyanki_Male)" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f7736aa4-33b0-406d-a56a-dbf99535a0c8" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Githyanki-->
+									<attribute id="Object" type="guid" value="e49c027c-6ec6-4158-9afb-8b59236d10fd" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Fighter-->
+									<attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -318,24 +439,43 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
+								</node>	
+								<node id="Tag"><!--Dark Urge-->
+									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>				
+								<node id="Tag"><!--Rogue-->
+									<attribute id="Object" type="guid" value="f8a0608b-666c-4be6-a49c-03b369c10bd2" />
+								</node>	
 							</children>
 						</node>
 					</children>
@@ -354,30 +494,43 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209031" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams"/>
 						<node id="Tags">
 							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="ece30580-7788-4488-955d-7ee0a32322ed" />
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
 								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="53c3304c-032d-4c49-86df-00b3b03a6b13" />
-								</node>
-								<node id="Tag">
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>	
+								<node id="Tag"><!--Rogue-->
+									<attribute id="Object" type="guid" value="f8a0608b-666c-4be6-a49c-03b369c10bd2" />
+								</node>		
 							</children>
 						</node>
 					</children>
@@ -397,36 +550,43 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
 						<node id="Tags">
 							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" />
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
 								</node>
-								<node id="Tag">
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683"/>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
 								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3"/>
-								</node>
-								<node id="Tags">
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8"/>
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="26fb71ce-d2c8-44b5-90d6-cb08705cb531" />
-								</node>
+								<node id="Tag"><!--Ranger-->
+									<attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" />
+								</node>	
 							</children>
 						</node>
 					</children>
