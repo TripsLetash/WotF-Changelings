@@ -257,7 +257,7 @@ using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
 data "DisplayName" "hb3ce27a1gf4f9g4708gbdc2g13062838cb30"
 data "TemplateID" "b0aaf216-2621-4d09-942b-54c70a8e6e53"
 
-new entry "SHAPESHIFT_TRIPS_WYLLDEVIL"
+new entry "SHAPESHIFT_TRIPS_WALTERED"
 type "StatusData"
 data "StatusType" "POLYMORPHED"
 using "SHAPESHIFT_TRIPS_TIEFLING_MALE"

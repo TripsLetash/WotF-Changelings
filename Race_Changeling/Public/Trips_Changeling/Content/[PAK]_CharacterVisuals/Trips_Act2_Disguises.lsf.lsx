@@ -29,12 +29,6 @@
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="b89fc2ed-2441-f78c-4fff-3c6cb40fc786" />
 										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="False" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="abf04bb5-d01b-36ee-632b-655999f68894" />
-										</node>
 									</children>
 								</node>
 								<node id="ScalarParameters">
@@ -295,21 +289,7 @@
 									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="AddedColor" />
 									<attribute id="Value" type="fvec3" value="0.02570003 0 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
-									<attribute id="Value" type="fvec3" value="0.226779 0.03706933 0.03706933" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.1512834 0.05627696 0.04093959" />
-								</node>
+								</node>								
 								<node id="Vector3Parameters">
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
@@ -344,13 +324,6 @@
 									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="Hair_Scalp_Graying_Color" />
 									<attribute id="Value" type="fvec3" value="0.7316965 0.7316965 0.7316965" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-									<attribute id="Value" type="fvec3" value="0.1165758 0.08179779 0.1069772" />
 								</node>
 							</children>
 						</node>
@@ -404,12 +377,6 @@
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="a3d3f789-fb00-47bd-1229-3283baba7b38" />
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="False" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="fa030c66-f9be-5dff-f479-bfbbe70cc41a" />
 										</node>
 									</children>
 								</node>
@@ -522,118 +489,6 @@
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.103205 0.04120215 0.03113446" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color12" />
-									<attribute id="Value" type="fvec3" value="0 1 0.5" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color5" />
-									<attribute id="Value" type="fvec3" value="1 0 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color4" />
-									<attribute id="Value" type="fvec3" value="1 0.5 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color6" />
-									<attribute id="Value" type="fvec3" value="1 0.5 0.5" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color7" />
-									<attribute id="Value" type="fvec3" value="1 0 0.5" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color8" />
-									<attribute id="Value" type="fvec3" value="0.5 0 1" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color9" />
-									<attribute id="Value" type="fvec3" value="0 0 1" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color10" />
-									<attribute id="Value" type="fvec3" value="0.5 0.5 1" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color11" />
-									<attribute id="Value" type="fvec3" value="0 0.5 1" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color13" />
-									<attribute id="Value" type="fvec3" value="0 1 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color14" />
-									<attribute id="Value" type="fvec3" value="0.5 1 0.5" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color15" />
-									<attribute id="Value" type="fvec3" value="0.5 1 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-									<attribute id="Value" type="fvec3" value="0.05174947 0.04625882 0.04566308" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.150985 0.09062724 0.07107527" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.1362835 0.1137495 0.1351849" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="EyeMakeup" />
 									<attribute id="Value" type="fvec3" value="0 0 0" />
 								</node>
@@ -643,55 +498,6 @@
 									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="Lips_Makeup_Color" />
 									<attribute id="Value" type="fvec3" value="0 0 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.2549159 0.03561437 0.03155139" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Accent_Color" />
-									<attribute id="Value" type="fvec3" value="0.1088053 0.09537219 0.1179065" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Custom_1" />
-									<attribute id="Value" type="fvec3" value="0.1620111 0.1620111 0.1620111" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Custom_2" />
-									<attribute id="Value" type="fvec3" value="0.1215819 0.1215819 0.1215819" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.6287856 0.6287856 0.6287856" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.8750368 0.7557197 0.595236" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="AddedColor" />
-									<attribute id="Value" type="fvec3" value="0.02570003 0 0" />
 								</node>
 							</children>
 						</node>
@@ -753,12 +559,6 @@
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="15c6f1a3-efd2-1c7f-f7df-4d55be8e80c4" />
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="68da2cb2-be86-96c9-1496-f74e15e75c8f" />
 										</node>
 									</children>
 								</node>
@@ -1175,12 +975,6 @@
 											<attribute id="MapKey" type="FixedString" value="03Hair" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="f9364368-53d2-6378-f585-e54b7de43858" />
 										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="False" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e0d00c10-e6f2-4971-845e-089206950549" />
-										</node>
 									</children>
 								</node>
 								<node id="ScalarParameters">
@@ -1481,62 +1275,6 @@
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Accent_Color" />
-									<attribute id="Value" type="fvec3" value="0.09884839 0.108203 0.1853782" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Custom_1" />
-									<attribute id="Value" type="fvec3" value="0.06003161 0.06972709 0.3889103" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-									<attribute id="Value" type="fvec3" value="0.1658955 0.1658955 0.1658955" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.3923823 0.3923823 0.3923823" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Secondary_Color" />
-									<attribute id="Value" type="fvec3" value="0.03602739 0.03602739 0.07822317" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Tertiary_Color" />
-									<attribute id="Value" type="fvec3" value="0.0912957 0.0912957 0.1244947" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color_01" />
-									<attribute id="Value" type="fvec3" value="0.09283525 0.08729615 0.08729615" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
-									<attribute id="Parameter" type="FixedString" value="Color_03" />
-									<attribute id="Value" type="fvec3" value="0.3022746 0.3022746 0.3022746" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="Parameter" type="FixedString" value="MakeupColor" />
 									<attribute id="Value" type="fvec3" value="0 0 0" />
 								</node>
@@ -1605,12 +1343,6 @@
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="d0df4b1a-b1d4-97cd-f2b1-df78cd48e76f" />
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="5ba44b25-5fe6-39d8-af28-068a4170e39c" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -2348,76 +2080,6 @@
 									<attribute id="Color" type="bool" value="False" />
 									<attribute id="Custom" type="bool" value="True" />
 									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="AddedColor" />
-									<attribute id="Value" type="fvec3" value="0.02570003 0 0" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.7082978 0.7372048 0.7817507" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.119264 0.1247409 0.1390225" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Metal_Primary" />
-									<attribute id="Value" type="fvec3" value="0.7011695 0.6253447 0.592438" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.1087111 0.1087111 0.1087111" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
-									<attribute id="Value" type="fvec3" value="0.1247409 0.1139209 0.1165758" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.2673581 0.2673581 0.2673581" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-									<attribute id="Value" type="fvec3" value="0.3157627 0.2508402 0.1419803" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-									<attribute id="Value" type="fvec3" value="0.1939722 0.2157644 0.2508402" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
-									<attribute id="Parameter" type="FixedString" value="Leather_Secondary" />
-									<attribute id="Value" type="fvec3" value="0.4151481 0.3889102 0.3636039" />
-								</node>
-								<node id="Vector3Parameters">
-									<attribute id="Color" type="bool" value="False" />
-									<attribute id="Custom" type="bool" value="True" />
-									<attribute id="Enabled" type="bool" value="False" />
 									<attribute id="Parameter" type="FixedString" value="TattooColor" />
 									<attribute id="Value" type="fvec3" value="0 0.03287591 0.0160677" />
 								</node>
@@ -2523,12 +2185,6 @@
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="4c7a7607-6b5e-a923-e037-4e40a48d20ce" />
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="02 Colour" />
-											<attribute id="MapKey" type="FixedString" value="02 Colour" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="228ad4dd-ad23-cd5d-b67d-66f7fbdc97f9" />
 										</node>
 									</children>
 								</node>
