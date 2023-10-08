@@ -1734,7 +1734,6 @@
 						</node>		
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a9f7bd1e-33fe-f17c-7c6d-781863732b6b" />
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
@@ -2166,7 +2165,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c7c62a23-1ddc-6d56-7858-3bb5f3fe5a98" />
 					<attribute id="BodySetVisual" type="FixedString" value="d8d9aee4-098a-dcda-08b4-6d03ea392d49" />

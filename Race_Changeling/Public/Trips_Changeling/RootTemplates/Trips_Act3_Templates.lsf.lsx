@@ -164,56 +164,6 @@
 						</node>
 					</children>
 				</node>
-				<!--The Dark Urge-->
-				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="2973569b-b860-46b5-bd51-1e20fd7788ac" />
-					<attribute id="Icon" type="FixedString" value="93cc0e08-879e-0b32-2de6-44a4d595c2da-EQP_Greatsword_(Icon_Dragonborn_Male)" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="5a7ceb98-ab9e-4c47-ac44-72b4aa850e4c" />
-					<attribute id="Name" type="LSString" value="The Dark Urge" />
-					<attribute id="Stats" type="FixedString" value="HeroDragonbornMale" />
-					<attribute id="ParentTemplateId" type="FixedString" value="1f69a29f-8284-4d1d-a0e6-fba9fb02ac56" />
-					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-					<children>
-						<node id="LocomotionParams" />
-						<node id="SpeakerGroupList">
-							<children>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
-								</node>
-								<node id="SpeakerGroup">
-									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
-								</node>
-							</children>
-						</node>
-						<node id="Tags">
-							<children>
-								<node id="Tag"> <!--Male-->
-									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
-								</node>
-								<node id="Tag"> <!--Rare-->
-									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
-								</node>		
-								<node id="Tag"> <!--Tadpoled-->
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>		
-								<node id="Tag"><!--Humanoid-->
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
-								</node>		
-								<node id="Tag"><!--Changeling-->
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
-								</node>
-								<node id="Tag"><!--Dragonborn-->
-									<attribute id="Object" type="guid" value="39783f17-8484-46a6-aa3b-f3d51122e5f3" />
-								</node>
-								<node id="Tag"><!--The Dark Urge-->
-									<attribute id="Object" type="guid" value="fe825e69-1569-471f-9b3f-28fd3b929683" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
 				<!--Sarevok-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="310238ae-2483-4f29-951a-2543620dcba5" />
