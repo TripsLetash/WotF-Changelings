@@ -107,9 +107,9 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e0bde1a4-0b66-47d3-b050-650a6db21bd6" />
 					<attribute id="Icon" type="FixedString" value="b0fc0399-d524-0c4f-e366-0251943caf25-_(Icon_Elf_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="bc3cde9c-cf02-48ff-b44f-a53a1e009a35" />
+					<attribute id="MapKey" type="FixedString" value="b725b6f8-b368-46c6-85f9-a8f56cc8d51e" />
 					<attribute id="Name" type="LSString" value="He Who Was" />
-					<attribute id="ParentTemplateId" type="FixedString" value="cc2efa0d-d72b-4394-bb11-57f4f494127a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="bc3cde9c-cf02-48ff-b44f-a53a1e009a35" />
 					<attribute id="SpellSet" type="FixedString" value="CommonNPCActions" />
 					<attribute id="Stats" type="FixedString" value="Elf_Commoner" />
 					<attribute id="Type" type="FixedString" value="character" />
