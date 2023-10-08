@@ -1,12 +1,3 @@
-
-    BASE_Tieflings_Male_Mephistopheles              4eb632fa-e07f-495e-9788-c59f16f43e21
-    BASE_Tieflings_Male_Asmodeus                    6f881126-478f-43a4-ba02-c024cf03a212
-    BASE_Tieflings_Male_Zariel                      2609ea6d-f065-4c0f-877f-ebecb988c478
-
-    BASE_Tieflings_Female_Mephistopheles            8d9024d8-ac09-4745-b04f-793595ea94c3
-    BASE_Tieflings_Female_Asmodeus                  619e1ca1-2467-42a3-abb2-627e8ce527c3
-    BASE_Tieflings_Female_Zariel                    8b257df7-fa53-42d7-bd43-8282d8473a35
-
 Humans_Male_Player			                    fd7f2707-8f86-4836-bda8-e0db99c389cc
 Humans_Male_Strong_Player       	            056fffd0-9009-4627-84c2-f0a22e311ec7
 Humans_Female_Player   		                    df4aee69-40ea-480d-aa96-1abe82c28b66
