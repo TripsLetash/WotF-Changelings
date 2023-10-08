@@ -70,7 +70,231 @@
                     <attribute id="U2" type="float" value="0.21875"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
-                </node>			
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Tiefling_Male"/> 8
+                    <attribute id="U1" type="float" value="0.21875"/> Left
+                    <attribute id="U2" type="float" value="0.25"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Tiefling_Female"/> 9
+                    <attribute id="U1" type="float" value="0.25"/> Left
+                    <attribute id="U2" type="float" value="0.28125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Drow_Male"/> 10
+                    <attribute id="U1" type="float" value="0.28125"/> Left
+                    <attribute id="U2" type="float" value="0.3125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Drow_Female"/> 11
+                    <attribute id="U1" type="float" value="0.3125"/> Left
+                    <attribute id="U2" type="float" value="0.34375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Human_Male"/> 12
+                    <attribute id="U1" type="float" value="0.34375"/> Left
+                    <attribute id="U2" type="float" value="0.375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Human_Female"/> 13
+                    <attribute id="U1" type="float" value="0.375"/> Left
+                    <attribute id="U2" type="float" value="0.40625"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Githyanki_Male"/> 14
+                    <attribute id="U1" type="float" value="0.40625"/> Left
+                    <attribute id="U2" type="float" value="0.4375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Githyanki_Female"/> 15
+                    <attribute id="U1" type="float" value="0.4375"/> Left
+                    <attribute id="U2" type="float" value="0.46875"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Dwarf_Male"/> 16
+                    <attribute id="U1" type="float" value="0.46875"/> Left
+                    <attribute id="U2" type="float" value="0.5"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Dwarf_Female"/> 17
+                    <attribute id="U1" type="float" value="0.5"/> Left
+                    <attribute id="U2" type="float" value="0.53125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>				
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Elf_Male"/> 18
+                    <attribute id="U1" type="float" value="0.53125"/> Left
+                    <attribute id="U2" type="float" value="0.5625"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Elf_Female"/> 19
+                    <attribute id="U1" type="float" value="0.5625"/> Left
+                    <attribute id="U2" type="float" value="0.59375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfElf_Male"/> 20
+                    <attribute id="U1" type="float" value="0.59375"/> Left
+                    <attribute id="U2" type="float" value="0.625"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfElf_Female"/> 21
+                    <attribute id="U1" type="float" value="0.625"/> Left
+                    <attribute id="U2" type="float" value="0.65625"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Halfling_Male"/> 22
+                    <attribute id="U1" type="float" value="0.65625"/> Left
+                    <attribute id="U2" type="float" value="0.6875"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Halfling_Female"/> 23
+                    <attribute id="U1" type="float" value="0.6875"/> Left
+                    <attribute id="U2" type="float" value="0.71875"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Gnome_Male"/> 24
+                    <attribute id="U1" type="float" value="0.71875"/> Left
+                    <attribute id="U2" type="float" value="0.75"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Gnome_Female"/> 25
+                    <attribute id="U1" type="float" value="0.75"/> Left
+                    <attribute id="U2" type="float" value="0.78125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Dragonborn_Male"/> 26
+                    <attribute id="U1" type="float" value="0.78125"/> Left
+                    <attribute id="U2" type="float" value="0.8125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Dragonborn_Female"/> 27
+                    <attribute id="U1" type="float" value="0.8125"/> Left
+                    <attribute id="U2" type="float" value="0.84375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfOrc_Male"/> 28
+                    <attribute id="U1" type="float" value="0.84375"/> Left
+                    <attribute id="U2" type="float" value="0.875"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfOrc_Female"/> 29
+                    <attribute id="U1" type="float" value="0.875"/> Left
+                    <attribute id="U2" type="float" value="0.90625"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>					
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Human_Strong_Male"/> 30
+                    <attribute id="U1" type="float" value="0.90625"/> Left
+                    <attribute id="U2" type="float" value="0.9375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>							
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Human_Strong_Female"/> 31
+                    <attribute id="U1" type="float" value="0.9375"/> Left
+                    <attribute id="U2" type="float" value="0.96875"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Drow_Strong_Male"/> 32
+                    <attribute id="U1" type="float" value="0.96875"/> Left
+                    <attribute id="U2" type="float" value="1.0"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Drow_Strong_Female"/> 33 ROW 2 = 1
+                    <attribute id="U1" type="float" value="0.0"/> Left side
+                    <attribute id="U2" type="float" value="0.03125"/> Right side
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Elf_Strong_Male"/> 34 ROW 2 = 2
+                    <attribute id="U1" type="float" value="0.03125"/> Left
+                    <attribute id="U2" type="float" value="0.0625"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Elf_Strong_Female"/> 35 ROW 2 = 3
+                    <attribute id="U1" type="float" value="0.0625"/> Left
+                    <attribute id="U2" type="float" value="0.09375"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfElf_Strong_Male"/> 36 ROW 2 = 4
+                    <attribute id="U1" type="float" value="0.09375"/> Left
+                    <attribute id="U2" type="float" value="0.125"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_HalfElf_Strong_Female"/> 37 ROW 2 = 5
+                    <attribute id="U1" type="float" value="0.125"/> Left
+                    <attribute id="U2" type="float" value="0.15625"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Tiefling_Strong_Male"/> 38 ROW 2 = 6
+                    <attribute id="U1" type="float" value="0.15625"/> Left
+                    <attribute id="U2" type="float" value="0.1875"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Tiefling_Strong_Female"/> 39 ROW 2 = 7
+                    <attribute id="U1" type="float" value="0.1875"/> Left
+                    <attribute id="U2" type="float" value="0.21875"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>		
             </children>
         </node>
     </region>
