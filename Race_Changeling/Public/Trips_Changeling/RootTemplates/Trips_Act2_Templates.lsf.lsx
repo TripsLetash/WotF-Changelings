@@ -146,6 +146,9 @@
 								<node id="Tag"><!--Elf-->
 									<attribute id="Object" type="guid" value="772b1dc6-14be-417f-afa3-c6cf364f45b4" />
 								</node>
+								<node id="Tag"><!--Elf-->
+									<attribute id="Object" type="guid" value="78884c5f-9504-41af-912d-ce212df0ebea" />
+								</node>
 								<node id="Tag"><!--Warlock-->
 									<attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22" />
 								</node>
