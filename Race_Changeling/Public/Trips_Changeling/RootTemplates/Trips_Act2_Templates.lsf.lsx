@@ -5,6 +5,55 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="Icon" type="FixedString" value="04e02621-cca8-b689-b15e-8484cc99f4d6-EQP_Staff_Robe_(Icon_Elminster)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="256a7172-3837-4931-893e-ae299bb96e00" />
+					<attribute id="Name" type="LSString" value="Elminster" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />					
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e50e8dd7-4948-4898-99e6-1165aca417f4" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="fd7f2707-8f86-4836-bda8-e0db99c389cc" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
+								</node>	
+								<node id="Tag"><!--Wizard-->
+									<attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c" />
+								</node>	
+	
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b039256c-142f-4088-bc79-44e7c36a9fff" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h452cf8ffg777ag4928gb74egda9ae19413dc" version="2" />
 					<attribute id="Icon" type="FixedString" value="4963cb0e-05db-5932-71d1-9fe5aef10bdb-EQP_HandCrossbow_Leather_Dagger_(Icon_Drow_Female)" />
