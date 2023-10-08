@@ -5,9 +5,156 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="ea023f21-6324-433c-a43a-389e40b32f59" />
+					<attribute id="Icon" type="FixedString" value="3aed9e9b-3fb4-17aa-625e-00948b759ffc-MOO_PrisonWarden_(Icon_Tiefling_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="248b04ce-af2a-46a9-a0dc-9aa88e52ae2c" />
+					<attribute id="Name" type="LSString" value="The Warden" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Tiefling-->
+									<attribute id="Object" type="guid" value="7bf7207f-7406-49c0-b501-eaaa2bb4efd7" />
+								</node>
+								<node id="Tag"><!--Asmodeus Tief-->
+									<attribute id="Object" type="guid" value="6591a20a-12de-46ff-bf82-b866cd97bb9a" />
+								</node>
+								<node id="Tag"><!--Ranger-->
+									<attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a" />
+								</node>	
+							</children>
+						</node>
+					</children>
+				</node>					
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c40b2be5-66ac-4bc9-8523-daf5f6b068d8" />
+					<attribute id="Icon" type="FixedString" value="02871152-ffff-f766-280a-9f425414b7c1-EQP_MasterOfSouls_(Icon_Human_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ad6e8f3e-18cf-4ffa-bef8-9166d4d580d9" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Name" type="LSString" value="Kressa Bonedaughter" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="df4aee69-40ea-480d-aa96-1abe82c28b66" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692752" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
+								</node>
+								<node id="Tag"><!--Cleric-->
+									<attribute id="Object" type="guid" value="1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5" />
+								</node>	
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e4887fe4-add1-4c43-b2fa-5dee8fd5299e" />
+					<attribute id="Icon" type="FixedString" value="43e0321c-bde3-ad1a-ff89-e3749ad2f7c0-SCL_HarperScout_(Icon_Human_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ab6abf93-d8f6-4ee1-9476-0a599aa3c426" />
+					<attribute id="Name" type="LSString" value="Harper Lassandra" />
+					<attribute id="Type" type="FixedString" value="character" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="df4aee69-40ea-480d-aa96-1abe82c28b66" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>	
+								<node id="Tag"><!--Human-->
+									<attribute id="Object" type="guid" value="8e288154-e7ca-4277-b2df-e61639b1cce8" />
+								</node>
+								<node id="Tag"><!--Fighter-->
+									<attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
+								</node>	
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="Icon" type="FixedString" value="04e02621-cca8-b689-b15e-8484cc99f4d6-EQP_Staff_Robe_(Icon_Elminster)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="256a7172-3837-4931-893e-ae299bb96e00" />
+					<attribute id="MapKey" type="FixedString" value="8776313a-a60d-45b1-9f2d-dd825d7d631f" />
 					<attribute id="Name" type="LSString" value="Elminster" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />					

@@ -33,6 +33,10 @@ Jaheira
 He Who Was
 Raphael
 Araj
+Elminster
+Lassandra
+Kressa Bonedaughter
+The Warden
 
 //Act 3  : Level 10
 
