@@ -1,10 +1,10 @@
-Humans_Male_Player			                    fd7f2707-8f86-4836-bda8-e0db99c389cc
-Humans_Male_Strong_Player       	            056fffd0-9009-4627-84c2-f0a22e311ec7
-Humans_Female_Player   		                    df4aee69-40ea-480d-aa96-1abe82c28b66
-Humans_Female_Strong_Player   		            3303e8f6-a7e4-4b24-b64c-d64bbc152803
+Humans_Male_Player                              fd7f2707-8f86-4836-bda8-e0db99c389cc
+Humans_Male_Strong_Player                       056fffd0-9009-4627-84c2-f0a22e311ec7
+Humans_Female_Player                            df4aee69-40ea-480d-aa96-1abe82c28b66
+Humans_Female_Strong_Player                     3303e8f6-a7e4-4b24-b64c-d64bbc152803
 
-Githyanki_Male_Player		                    ba63c9de-13fc-4011-94a1-0ca11c29893e
-Githyanki_Female_Player	        	            7bb034aa-d355-4973-9b61-4d83cf29d510
+Githyanki_Male_Player                           ba63c9de-13fc-4011-94a1-0ca11c29893e
+Githyanki_Female_Player                         7bb034aa-d355-4973-9b61-4d83cf29d510
 
 Tieflings_Male_Mephistopheles_Player            498af440-0d7d-40e5-a7f1-141ce68bbfed
 Tieflings_Male_Mephistopheles_Player_Strong     76b33e27-4a95-4e0d-8113-81b5c61fc2e1
