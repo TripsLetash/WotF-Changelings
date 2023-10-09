@@ -3,100 +3,48 @@ Repository for Whispers of the Fey: Changelings, by Trips. A BG3 mod.
 
 All current Shapeforms, listed per act and level they're acquired at:
 
-//Act 1 : Level 2
-
-Lae'zel
-Karlach
-Gale
-Wyll
-Wyll (Altered)
-Astarion
-Shadowheart
-Alfira
-Zevlor
-Kagha
-Rolan
-Halsin
-Minthara
-Abdirak
-Dammon
-Florrick
-Gandrel
-The Dark Urge
-Lakrissa
-Auntie Ethel
-
-//Act 2 : Level 7
-
-Aylin
-Isobel
-Ketheric
-Z'rell
-Jaheira
-He Who Was
-Raphael
-Araj
-Elminster
-Lassandra
-Kressa Bonedaughter
-The Warden
-
-//Act 3  : Level 10
-
-Minsc
-Gortash
-Orin
-Kith'rak Voss
-Nocturne
-Lucretious
-Sarevok
-Ulder
-Viconia
-Cazador
-Ulma
-Exxvikyap
-Naoise
-Korilla
-Nym
-Sorn
-Dribbles the Clown
-Mystra
-
-//Generic Normal : Level 1
-
-Base Shape	
-Tiefling Male
-Tiefling Female
-Drow Male
-Drow Female
-Human Male
-Human Female
-Githyanki Male
-Githyanki Female
-Dwarf Male
-Dwarf Female
-Elf Male
-Elf Female
-Half-Elf Male
-Half-Elf Female
-Halfling Male
-Halfling Female
-Gnome Male
-Gnome Female
-Dragonborn Male
-Dragonborn Female
-Half-Orc Male
-Half-Orc Female
-
-//Generic Strong : Level 1
-
-Strong Human Male
-Strong Human Female
-Strong Drow Male
-Strong Drow Female
-Strong Elf Male
-Strong Elf Female
-Strong Half-Elf Male
-Strong Half-Elf Female
-Strong Tiefling Male
-Strong Tiefling Female
++------------------+-------------+------------+------------+
+| Generic          | Act 1       | Act2       | Act3       |
++------------------+-------------+------------+------------+
+| Level 1          | Level 2     | Level 7    | Level 10   |
++------------------+-------------+------------+------------+
+| Tiefling M/F     | Lae'zel     | Aylin      | Gortash    |
++------------------+-------------+------------+------------+
+| Drow M/F         | Karlach     | Isobel     | Orin       |
++------------------+-------------+------------+------------+
+| Human M/F        | Gale        | Ketheric   | Voss       |
++------------------+-------------+------------+------------+
+| Githyanki M/F    | Wyll        | Z'rell     | Nocturne   |
++------------------+-------------+------------+------------+
+| Dwarf M/F        | Wyll (A)    | Jaheira    | Lucretious |
++------------------+-------------+------------+------------+
+| Elf M/F          | Astarion    | He-who-was | Sarevok    |
++------------------+-------------+------------+------------+
+| H-Elf M/F        | Shadowheart | Raphael    | Ulder      |
++------------------+-------------+------------+------------+
+| Halfling M/F     | Alfira      | Araj       | Viconia    |
++------------------+-------------+------------+------------+
+| Gnome M/F        | Zevlor      | Elminster  | Cazador    |
++------------------+-------------+------------+------------+
+| Dragonborn M/F   | Kagha       | Lassandra  | Ulma       |
++------------------+-------------+------------+------------+
+| H-Orc M/F        | Rolan       | Kressa     | Exxvikyap  |
++------------------+-------------+------------+------------+
+| Str Human M/F    | Halsin      | The Warden | Naoise     |
++------------------+-------------+------------+------------+
+| Str Drow M/F     | Minthara    |            | Korrilla   |
++------------------+-------------+------------+------------+
+| Str Elf M/F      | Abdirak     |            | Nym        |
++------------------+-------------+------------+------------+
+| Str H-Elf M/F    | Dammon      |            | Sorn       |
++------------------+-------------+------------+------------+
+| Str Tiefling M/F | Florrick    |            | Dribbles   |
++------------------+-------------+------------+------------+
+|                  | Gandrel     |            | Mystra     |
++------------------+-------------+------------+------------+
+|                  | Dark Urge   |            |            |
++------------------+-------------+------------+------------+
+|                  | Lakrissa    |            |            |
++------------------+-------------+------------+------------+
+|                  | Ethel       |            |            |
++------------------+-------------+------------+------------+
