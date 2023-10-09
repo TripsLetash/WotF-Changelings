@@ -977,7 +977,7 @@
 				<!--The Dark Urge-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="2973569b-b860-46b5-bd51-1e20fd7788ac" />
-					<attribute id="Icon" type="FixedString" value="93cc0e08-879e-0b32-2de6-44a4d595c2da-EQP_Greatsword_(Icon_Dragonborn_Male)" />
+					<attribute id="Icon" type="FixedString" value="e7b8b8bf-36a3-456a-ad56-c457a2da90c5-_(Icon_DarkUrge_Male)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="5a7ceb98-ab9e-4c47-ac44-72b4aa850e4c" />
 					<attribute id="Name" type="LSString" value="The Dark Urge" />
