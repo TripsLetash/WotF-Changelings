@@ -2,6 +2,7 @@
 Repository for Whispers of the Fey: Changelings, by Trips. A BG3 mod.
 
 All current Shapeforms, listed per act and level they're acquired at:
+
 //Act 1 : Level 2
 
 Lae'zel

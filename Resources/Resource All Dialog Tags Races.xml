@@ -65,20 +65,3 @@ Seldarine Drow      d2d60a81-688e-4d3d-ba56-3e467cae37fc
 Dragonborn      	39783f17-8484-46a6-aa3b-f3d51122e5f3
 
 Half-Orc            ab3eff19-d094-4102-88bd-d097b6b6e4f0
-
-								<node id="Tag"> <!--Rare-->
-									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
-								</node>		
-								<node id="Tag"> <!--Tadpoled-->
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>		
-								<node id="Tag"><!--Humanoid-->
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
-								</node>		
-								<node id="Tag"><!--Changeling-->
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
-								</node>			
-
-								<node id="Tag"><!--YYYYYYY-->
-									<attribute id="Object" type="guid" value="XXXXXX" />
-								</node>	
