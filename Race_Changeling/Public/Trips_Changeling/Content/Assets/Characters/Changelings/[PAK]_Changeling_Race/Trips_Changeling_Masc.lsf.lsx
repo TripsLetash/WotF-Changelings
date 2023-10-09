@@ -154,7 +154,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="d4b041af-73e8-d0b9-a6e5-ec33b39fa9fd" />
+							<attribute id="MaterialID" type="FixedString" value="9e7f3179-0491-4628-9afe-de4da7ec3103" />
 							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_M_Head.Trips_Changeling_M_Head_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
