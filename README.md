@@ -23,6 +23,8 @@ Dammon
 Florrick
 Gandrel
 The Dark Urge
+Lakrissa
+Auntie Ethel
 
 //Act 2 : Level 7
 
