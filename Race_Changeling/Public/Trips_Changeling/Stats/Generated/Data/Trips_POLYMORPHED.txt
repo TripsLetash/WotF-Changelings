@@ -450,6 +450,33 @@ data "TemplateID" "aea013ac-b893-4cd0-822b-e70770d40015"
 
 //Act 3
 
+new entry "SHAPESHIFT_TRIPS_KORRILLA"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h2b7f18c3gbf80g4121g87cdg6ad6506a355a"
+data "TemplateID" "c6a413a6-9318-4605-aa73-aa2ba4049b1f"
+
+new entry "SHAPESHIFT_TRIPS_NAOISE"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hd276e4bfgb3c4g438cga0f5g3dff34cb7749"
+data "TemplateID" "cc628d0b-85dd-41db-b55c-0535f5b5ab38"
+
+new entry "SHAPESHIFT_TRIPS_SHOPKEEPDRAGON"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h74093d6cg8c35g41cbgbaa6g4a9f17027a43"
+data "TemplateID" "541169c2-94f4-4831-b36d-3fa7d368f3e2"
+
+new entry "SHAPESHIFT_TRIPS_ULMA"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hf9a7f06ag8b80g4698gbbc6gcbee56c1f4d0"
+data "TemplateID" "a8de7949-fb6b-4816-baa4-f67f26bb0fae"
 
 new entry "SHAPESHIFT_TRIPS_MINSC"
 type "StatusData"
