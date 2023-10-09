@@ -50,6 +50,12 @@ Sarevok
 Ulder
 Viconia
 Cazador
+Ulma
+Exxvikyap
+Naoise
+Korilla
+Nym
+Sorn
 
 //Generic Normal : Level 1
 

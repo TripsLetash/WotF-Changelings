@@ -450,6 +450,20 @@ data "TemplateID" "aea013ac-b893-4cd0-822b-e70770d40015"
 
 //Act 3
 
+new entry "SHAPESHIFT_TRIPS_NYM"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hf1be70f9g673eg4e3fgb601g08e4a00507e9"
+data "TemplateID" "bbc232aa-0404-4a9f-bda8-8ac4498a8363"
+
+new entry "SHAPESHIFT_TRIPS_SORN"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h09f061c1gc4c6g422fg99fbgea8b4fb158df"
+data "TemplateID" "c6b381f0-9b28-489b-9764-f28b2e870ef3"
+
 new entry "SHAPESHIFT_TRIPS_KORRILLA"
 type "StatusData"
 data "StatusType" "POLYMORPHED"

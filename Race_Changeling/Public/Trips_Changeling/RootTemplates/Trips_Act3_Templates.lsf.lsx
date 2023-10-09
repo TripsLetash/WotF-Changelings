@@ -4,6 +4,116 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Nym-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f4532dca-9af6-4ad4-9f86-ea052d2f4c47" />
+					<attribute id="Icon" type="FixedString" value="f58bc327-2fb8-6e05-3d38-11670a4ecfe7-_(Icon_Drow_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bbc232aa-0404-4a9f-bda8-8ac4498a8363" />												
+					<attribute id="ParentTemplateId" type="FixedString" value="7a727073-1f49-4396-b899-b71d9d706cd5" />
+					<attribute id="Name" type="LSString" value="Nym" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Female-->
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
+								</node>		
+								<node id="Tag"><!--Drow-->
+									<attribute id="Object" type="guid" value="676e854b-d74b-44f3-8363-3ef27164a54d" />
+								</node>
+								<node id="Tag"><!--Seldarin Drow-->
+									<attribute id="Object" type="guid" value="d2d60a81-688e-4d3d-ba56-3e467cae37fc" />
+								</node>	
+								<node id="Tag"><!--Underddark-->
+									<attribute id="Object" type="guid" value="2d0a73b9-f113-4d35-bdee-a31ab9163d74" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<!--Sorn-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="3107ba24-c7e7-4d3b-a0ce-e66c33da6a55" />
+					<attribute id="Icon" type="FixedString" value="a206c877-6528-8756-6778-aa9ac242a5a1-_(Icon_Drow_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c6b381f0-9b28-489b-9764-f28b2e870ef3" />									
+					<attribute id="ParentTemplateId" type="FixedString" value="091745ab-6acc-46be-8902-5aa61aa94815" />
+					<attribute id="Name" type="LSString" value="Sorn" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Baldurian-->
+									<attribute id="Object" type="guid" value="f15e9b0d-676c-4f52-9abf-365cff89ef0f" />
+								</node>		
+								<node id="Tag"><!--Drow-->
+									<attribute id="Object" type="guid" value="676e854b-d74b-44f3-8363-3ef27164a54d" />
+								</node>
+								<node id="Tag"><!--Seldarin Drow-->
+									<attribute id="Object" type="guid" value="d2d60a81-688e-4d3d-ba56-3e467cae37fc" />
+								</node>	
+								<node id="Tag"><!--Underddark-->
+									<attribute id="Object" type="guid" value="2d0a73b9-f113-4d35-bdee-a31ab9163d74" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 				<!--Korrilla-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="156d8699-a065-41cd-8e8b-a389dd73b817" />
@@ -587,7 +697,6 @@
 				<!--Orin-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="7219e453-b93b-49e5-acba-e7b0cb834952" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hbadeb4ebg2d34g40dbgbe6fg98e464b04279" version="1" />
 					<attribute id="Icon" type="FixedString" value="5095868b-9830-0bf3-5630-078e84430fff-_(Icon_Human_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="LevelOverride" type="int32" value="1" />

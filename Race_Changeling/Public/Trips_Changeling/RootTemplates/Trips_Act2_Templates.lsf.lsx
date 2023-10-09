@@ -507,7 +507,6 @@
 						</node>	
 					</children>
 				</node>
-
 				<!--Isobel-->
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="ee1cb13e-3d01-48f7-8ac4-2fae976800db" />
@@ -571,7 +570,7 @@
 				<!--Nightsong Dame Aylin-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b0caa22e-4a14-427f-a088-a72fd3531614" />
-					<attribute id="Icon" type="FixedString" value="eccecbed-e6e4-fb38-f9ac-6b963d9f7721-_(Icon_Nightsong_Winged)" />
+					<attribute id="Icon" type="FixedString" value="01b2e885-b569-8c2e-3885-551d113ef452-_(Icon_Nightsong_Prison)" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="aea013ac-b893-4cd0-822b-e70770d40015" />
 					<attribute id="Name" type="LSString" value="Nightsong_Aylin" />
