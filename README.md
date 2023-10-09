@@ -57,6 +57,8 @@ Naoise
 Korilla
 Nym
 Sorn
+Dribbles the Clown
+Mystra
 
 //Generic Normal : Level 1
 
