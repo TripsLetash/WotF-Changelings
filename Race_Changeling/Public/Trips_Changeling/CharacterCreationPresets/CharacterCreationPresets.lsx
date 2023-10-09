@@ -13,6 +13,7 @@
                     <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/> 
                     <attribute id="RootTemplate" type="guid" value="8eb4675a-91a8-4ed5-8ebe-1c9a9f29059c"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="93431eeb-7384-40d3-9984-7391420e1085"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
                 </node>
@@ -24,6 +25,7 @@
                     <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>  
                     <attribute id="RootTemplate" type="guid" value="9219fc76-bd34-4938-9a0e-870d6e4f03aa"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="6c0f8c02-e34e-49c6-873a-11e31fc83104"/>
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
                 </node>

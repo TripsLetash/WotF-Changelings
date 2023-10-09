@@ -4,24 +4,7 @@
   <region id="CharacterCreationAppearanceVisuals">
     <node id="root">
       <children> 
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hc75a669agb38ag4f85g9209gedf483c9a2cb" version="1"/>
-                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
-                    <attribute id="SlotName" type="FixedString" value="Tail"/>
-                    <attribute id="UUID" type="guid" value="cd738ded-f109-40bd-b33c-0fc28c7bdc24"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hc75a669agb38ag4f85g9209gedf483c9a2cb" version="1"/>
-                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
-                    <attribute id="SlotName" type="FixedString" value="Tail"/>
-                    <attribute id="UUID" type="guid" value="314a053f-3b06-43e4-918f-bc69d1b9ec20"/>
-                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                </node>
+
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
