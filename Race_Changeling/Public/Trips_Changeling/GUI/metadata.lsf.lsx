@@ -16,6 +16,16 @@
 								</node>
 							</children>
 						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/cf9652fb-1717-490b-9ba3-884defbcfdd1-_(Icon_Changeling_Female).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 			</children>

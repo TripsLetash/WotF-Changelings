@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <!-- Daxze Trihza -->
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="false"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="2"/>
+                    <attribute id="BackgroundUUID" type="guid" value="e9aeac40-6c4e-4d81-9a24-e9eeb6208e85"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="ClassUUID" type="guid" value="b4225a4b-4bbe-4d97-9e3c-4719dbd1487c"/>
+                    <attribute id="Description" type="TranslatedString" handle="he961f40bg78f7g4cf5g933aga53fe67347fd" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf034be16g182dg44c9g8fa6g7b4285c58ad8" version="1"/>
+                    <attribute id="GlobalTemplate" type="guid" value="a37552b8-5544-4440-9bb1-aad183ee9f4e"/>
+                    <attribute id="Identity" type="uint8" value="3"/>
+                    <attribute id="IsHenchman" type="bool" value="true"/>
+                    <attribute id="LockClass" type="bool" value="false"/>
+                    <attribute id="LockRace" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Hireling_Changeling"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SubClassUUID" type="guid" value="8866db28-7dda-4fd6-93ed-20eca16314f0"/>
+                    <attribute id="UUID" type="guid" value="84bae93f-2502-4f7f-a722-6fce35bfe3c2"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="635eea4a-a223-4f36-8788-c706713b8486"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

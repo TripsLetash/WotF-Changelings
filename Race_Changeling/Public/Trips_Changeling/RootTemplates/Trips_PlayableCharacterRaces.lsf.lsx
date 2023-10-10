@@ -4,6 +4,36 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Changeling Hireling-->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="57cc2c7f-8f41-4f7e-bda1-cbd6442fffea" />
+					<attribute id="Name" type="LSString" value="Hirelings_Stats_Player_Changeling" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5fd99058-5221-4ca9-81d2-53d010cb277e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf034be16g182dg44c9g8fa6g7b4285c58ad8" version="1" />
+					<attribute id="Icon" type="FixedString" value="cf9652fb-1717-490b-9ba3-884defbcfdd1-_(Icon_Changeling_Female)" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="189944f1-7dd1-4c80-bab0-bcdb28b4ba65" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="189944f1-7dd1-4c80-bab0-bcdb28b4ba65" />
+					<attribute id="Faction" type="guid" value="b7b47ac8-8e29-4984-b8c5-f35b66d8265a" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="81c59dc6-0ee0-4a1c-8e75-3811752df050" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-8df8-ab107ccb0d37" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			
+				<!--Player-->
 				<node id="GameObjects"><!--Changeling Male-->
 					<attribute id="MapKey" type="FixedString" value="8eb4675a-91a8-4ed5-8ebe-1c9a9f29059c" />		
 					<attribute id="Name" type="LSString" value="Trips_Changeling_Male_Player" />							

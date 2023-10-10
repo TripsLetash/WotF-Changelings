@@ -135,17 +135,90 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_B_Head.Trips_Changeling_F_B_Head_Eyelashes_Mesh.5" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_B_Head.Trips_Changeling_F_B_Head_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_B_Head.Trips_Changeling_F_B_Head_Eyeshadow_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_B_Head.Trips_Changeling_F_B_Head_Scalp_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_B_Head.Trips_Changeling_F_B_Head_Scalp_Mesh.6" />
+						</node>
+					</children>
+				</node>
+								<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="7f690bf1-9180-4864-9d68-504c58a7e668" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1089473 1.828607 0.09719241" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1089473 1.525281 -0.1060619" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="55f24cce-a43b-4e9a-9e5d-44f0e5b88a59" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Trips_Changeling_Head_F_C" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="c1778893-853e-0bf7-048a-ec4bb0dc7a50" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Changeling/[PAK]_Changeling/Heads/Trips_Changeling_F_C_Head.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Trips_Changeling/[PAK]_Changeling/Heads/Trips_Changeling_F_C_Head.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e677a754-2af1-7113-5d26-a657d99e64b7" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="4fab36b2-f937-f3fb-fa1b-4a338fbf7de7" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6a7868fe-33ab-1650-7cbd-ac8cc512ee79" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="91c526cb-0752-4e6e-971a-0930a0b5a998" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="11928c80-9ca0-7d96-683b-31a7fe7c24ed" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Mouth_Interior_Fangs_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9e7f3179-0491-4628-9afe-de4da7ec3103" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="91c526cb-0752-4e6e-971a-0930a0b5a998" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Eyeshadow_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_C_Head.Trips_Changeling_F_C_Head_Scalp_Mesh.6" />
 						</node>
 					</children>
 				</node>
