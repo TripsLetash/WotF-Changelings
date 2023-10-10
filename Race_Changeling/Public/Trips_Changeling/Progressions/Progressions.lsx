@@ -1,59 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<?xml version="1.0" encoding="UTF-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="Progressions">
-    <node id="root">
-      <children>
-        <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="False" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Attunement,3,0)" />
-                    <attribute id="Level" type="uint8" value="1" />
-                    <attribute id="Name" type="LSString" value="Trips_Changeling_1" />
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_PD_ChangelingInstincts;Trips_Immunities;Trips_Shapechanger;Trips_Fey;Trips_Shapechanger_Generic" />
-                    <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(20a3e090-399d-4172-85b3-218f2dd62edd,2,Trips_ChangelingInstincts)" />
-                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87" />
-                    <attribute id="UUID" type="guid" value="fa7bf84a-a1d6-46b2-a779-739424d20b5b" />
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>           	
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="False"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Attunement,3,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Trips_Changeling_1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_PD_ChangelingInstincts;Trips_Immunities;Trips_Shapechanger;Trips_Fey;Trips_Shapechanger_Generic"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(20a3e090-399d-4172-85b3-218f2dd62edd,2,Trips_ChangelingInstincts)"/>
+                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87"/>
+                    <attribute id="UUID" type="guid" value="fa7bf84a-a1d6-46b2-a779-739424d20b5b"/>
                 </node>
-        <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="False" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Level" type="uint8" value="2" />
-                    <attribute id="Name" type="LSString" value="Trips_Changeling_2" />
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act1" />
-                    <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="Selectors" type="LSString" value="" />
-                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87" />
-                    <attribute id="UUID" type="guid" value="22236412-e04b-4846-84e7-8d6a4f9af676" />
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="False"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Trips_Changeling_2"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act1"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87"/>
+                    <attribute id="UUID" type="guid" value="22236412-e04b-4846-84e7-8d6a4f9af676"/>
                 </node>
-        <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="False" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Level" type="uint8" value="7" />
-                    <attribute id="Name" type="LSString" value="Trips_Changeling_7" />
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act2" />
-                    <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="Selectors" type="LSString" value="" />
-                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87" />
-                    <attribute id="UUID" type="guid" value="3a0183f4-c5a3-4a54-8229-67f4ed9f30f9" />
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="False"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Trips_Changeling_7"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87"/>
+                    <attribute id="UUID" type="guid" value="3a0183f4-c5a3-4a54-8229-67f4ed9f30f9"/>
                 </node>
-        <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="False" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Level" type="uint8" value="10" />
-                    <attribute id="Name" type="LSString" value="Trips_Changeling_10" />
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act3" />
-                    <attribute id="PassivesRemoved" type="LSString" value="" />
-                    <attribute id="ProgressionType" type="uint8" value="2" />
-                    <attribute id="Selectors" type="LSString" value="" />
-                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87" />
-                    <attribute id="UUID" type="guid" value="97c993d2-ffe8-4b0d-9b1a-15222c44e856" />
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="False"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Trips_Changeling_10"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Shapechanger_Act3"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87"/>
+                    <attribute id="UUID" type="guid" value="97c993d2-ffe8-4b0d-9b1a-15222c44e856"/>
                 </node>
-      </children>
-    </node>
-  </region>
+            </children>
+        </node>
+    </region>
 </save>

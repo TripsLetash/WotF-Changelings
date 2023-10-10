@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="8" build="2" lslib_meta="v1,bswap_guids" />
+	<version major="4" minor="0" revision="8" build="2" />
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
@@ -231,6 +231,7 @@
 						</node>
 					</children>
 				</node>
+
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
@@ -696,7 +697,7 @@
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0.1" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="tRUE" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="FrecklesWeight" />
@@ -1246,6 +1247,7 @@
 						</node>
 					</children>
 				</node>
+
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="cb56aff4-6a9f-4db5-b945-f070b080f892" />
