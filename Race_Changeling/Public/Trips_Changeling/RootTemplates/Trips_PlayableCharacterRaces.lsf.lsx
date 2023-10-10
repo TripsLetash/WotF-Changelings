@@ -10,11 +10,11 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="d821fa6f-811d-49ca-83f7-539160556c4e" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="ParentTemplateId" type="FixedString" value="ba63c9de-13fc-4011-94a1-0ca11c29893e" />
-					<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />					
+					<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
+					<attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />		
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingMale" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />
 					<children>
 						<node id="LocomotionParams" />
@@ -41,13 +41,13 @@
 					<attribute id="MapKey" type="FixedString" value="9219fc76-bd34-4938-9a0e-870d6e4f03aa" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f6ef376a-9a7d-42c3-9628-892f2e17ac76" />
 					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
 					<attribute id="Name" type="LSString" value="Trips_Changeling_Fem" />
 					<attribute id="ParentTemplateId" type="FixedString" value="7bb034aa-d355-4973-9b61-4d83cf29d510" />
 					<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />					
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingFemale" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />
 					<children>
 						<node id="LocomotionParams" />
@@ -65,10 +65,7 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="4683a3a3-cf33-4060-be1f-017827e4ad78" />
-								</node>								
+								</node>						
 							</children>
 						</node>
 					</children>
