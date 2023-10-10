@@ -4,6 +4,29 @@
   <region id="CharacterCreationAppearanceVisuals">
     <node id="root">
       <children> 
+                <!--Femme-->
+                <node id="CharacterCreationAppearanceVisual"> head 1
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0035674eg7137g4352g9ee2g33c281396173" version="2"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="d1a3a896-a55c-4cf5-865c-4ae2e54eca3d"/>
+                    <attribute id="VisualResource" type="guid" value="ce03b9f8-c345-42dc-90b1-1656f64ca7e3"/>
+                </node>
+                <!--Masc-->
+                <node id="CharacterCreationAppearanceVisual"> head 1
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0035674eg7137g4352g9ee2g33c281396173" version="2"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ca1a777c-4770-4ca3-85f9-ff57d97c1ccf"/>
+                    <attribute id="VisualResource" type="guid" value="c46323ef-fb06-4de3-9316-98b151e20e69"/>
+                </node>
+
 
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
