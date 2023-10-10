@@ -9,6 +9,7 @@
 					<attribute id="BodySetVisual" type="FixedString" value="ecf88356-fc72-452d-89d5-bfde61e930c8" />
 					<attribute id="ID" type="FixedString" value="f6ef376a-9a7d-42c3-9628-892f2e17ac76" />
 					<attribute id="Name" type="LSString" value="Changeling_Female" />
+					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
 					<children>
@@ -181,6 +182,7 @@
 					<attribute id="BaseVisual" type="FixedString" value="e6fa4c4b-8f7d-52d0-78d1-81405baf735f" />
 					<attribute id="BodySetVisual" type="FixedString" value="75d7cc4f-2e58-4c29-93c2-fa160b2b7b05" />
 					<attribute id="ID" type="FixedString" value="d821fa6f-811d-49ca-83f7-539160556c4e" />
+					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Changeling_Male" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241814" />
