@@ -1,50 +1,9 @@
 # WotF-Changelings
 Repository for Whispers of the Fey: Changelings, by Trips. A BG3 mod.
 
-All current Shapeforms, listed per act and level they're acquired at:
+Changelings race UUID: 7c314b07-5475-49bd-ad29-6782b16dc300
 
-+------------------+-------------+------------+------------+
-| Generic          | Act 1       | Act2       | Act3       |
-+------------------+-------------+------------+------------+
-| Level 1          | Level 2     | Level 7    | Level 10   |
-+------------------+-------------+------------+------------+
-| Tiefling M/F     | Lae'zel     | Aylin      | Gortash    |
-+------------------+-------------+------------+------------+
-| Drow M/F         | Karlach     | Isobel     | Orin       |
-+------------------+-------------+------------+------------+
-| Human M/F        | Gale        | Ketheric   | Voss       |
-+------------------+-------------+------------+------------+
-| Githyanki M/F    | Wyll        | Z'rell     | Nocturne   |
-+------------------+-------------+------------+------------+
-| Dwarf M/F        | Wyll (A)    | Jaheira    | Lucretious |
-+------------------+-------------+------------+------------+
-| Elf M/F          | Astarion    | He-who-was | Sarevok    |
-+------------------+-------------+------------+------------+
-| H-Elf M/F        | Shadowheart | Raphael    | Ulder      |
-+------------------+-------------+------------+------------+
-| Halfling M/F     | Alfira      | Araj       | Viconia    |
-+------------------+-------------+------------+------------+
-| Gnome M/F        | Zevlor      | Elminster  | Cazador    |
-+------------------+-------------+------------+------------+
-| Dragonborn M/F   | Kagha       | Lassandra  | Ulma       |
-+------------------+-------------+------------+------------+
-| H-Orc M/F        | Rolan       | Kressa     | Exxvikyap  |
-+------------------+-------------+------------+------------+
-| Str Human M/F    | Halsin      | The Warden | Naoise     |
-+------------------+-------------+------------+------------+
-| Str Drow M/F     | Minthara    |            | Korrilla   |
-+------------------+-------------+------------+------------+
-| Str Elf M/F      | Abdirak     |            | Nym        |
-+------------------+-------------+------------+------------+
-| Str H-Elf M/F    | Dammon      |            | Sorn       |
-+------------------+-------------+------------+------------+
-| Str Tiefling M/F | Florrick    |            | Dribbles   |
-+------------------+-------------+------------+------------+
-|                  | Gandrel     |            | Mystra     |
-+------------------+-------------+------------+------------+
-|                  | Dark Urge   |            |            |
-+------------------+-------------+------------+------------+
-|                  | Lakrissa    |            |            |
-+------------------+-------------+------------+------------+
-|                  | Ethel       |            |            |
-+------------------+-------------+------------+------------+
+Race_Changeling: Main mod files
+Resources: Has tags and UUIDs pertaining to the vanilla game and the mod
+ModReleasePics: Promotional materials
+
