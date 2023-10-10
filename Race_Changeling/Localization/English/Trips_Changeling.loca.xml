@@ -17,6 +17,9 @@
 	<content contentuid="hb02554eag0274g43cegaf5bg8f05985ac0df" version="1">Shapechange into a Humanoid shape from ACT 2 until you die or use an action to dismiss the effect. Becomes available upon reaching level 7.</content>
 	<content contentuid="h4a0ed99agf22bg447egae45g61d9c61f86dc" version="1">Shapechange into a Humanoid shape from ACT 3 until you die or use an action to dismiss the effect. Becomes available upon reaching level 10.</content>
 
+	<content contentuid="h89638118ged0eg467dgb017g131d69f1bf10" version="1">Changeling Head 2</content>	
+	<content contentuid="h2887a975g9facg4c4bgaa3ag56f4eecf51e3" version="1">Changeling Head 1</content>
+
 	<content contentuid="h8c46ac72g4188g4c54g9764gfa6f2566e2a4" version="1">Changeling Instincts</content>	
 	<content contentuid="h00f539a9g7e70g4203ga0f8g35a756f893cf" version="1">Thanks to your connection to the fey realm, you gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with two of the following &lt;LSTag Tooltip="Skill"&gt;Skills&lt;/LSTag&gt; of your choice: Deception, Insight, Intimidation, Performance or Persuasion.</content>
 
@@ -42,6 +45,11 @@
 	<content contentuid="hf9a80f12g5543g444cga1acg354bb53857b5" version="1">Shapechange: The Dark Urge</content>	
 	<content contentuid="h997066eeg323eg4d2fga525gd021222d34de" version="1">Shapechange: Lakrissa</content>	
 	<content contentuid="hb9d130feg2e23g4c36g8189g35a5e84f38f8" version="1">Shapechange: Auntie Ethel</content>
+	<content contentuid="h24a74b75g437ag469ag9b1eg8e4f9049d2c1" version="1">Shapechange: Gimblebock</content>
+	<content contentuid="h3a7f42d1gfd81g4dd3g8f71g3483b8503ddd" version="1">Shapechange: Taman</content>
+	<content contentuid="hff2ef875g6852g468eg88bfg962db8a45b86" version="1">Shapechange: Baelen</content>
+	<content contentuid="hb6d0b368g82d3g48b2gbe83gaa3cbc9f12c4" version="1">Shapechange: Derryth</content>
+
 
 	//Act 2
 	<content contentuid="h7c2c295agd8cfg48e9gbca9g186c7ea197fb" version="1">Shapechange: Aylin</content>

@@ -5,6 +5,143 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="130970ce-85d7-4d32-9b6c-886cda8c7d4a" />
+					<attribute id="Icon" type="FixedString" value="7073a549-3d3d-f803-4c4e-b03c8bfa220f-EQP_Crossbow_Leather_(Icon_Dwarf_Female)" />
+					<attribute id="MapKey" type="FixedString" value="83d6323b-547f-4e2e-a7c0-89b79e0decb7" />
+					<attribute id="Name" type="LSString" value="Derryth" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="70cddf7f-fab6-4470-9815-85c255e05d27" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5afe84db-c5c9-41d6-8a76-ff8438a409b4" />
+					<attribute id="Icon" type="FixedString" value="df9ffde8-3aae-6111-7871-9adb2c2d56cc-_(Icon_Dwarf_Male)" />
+					<attribute id="MapKey" type="FixedString" value="958f8cca-e39c-472d-a452-3a926b5af0b2" />
+					<attribute id="Name" type="LSString" value="Baelen" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="72f584af-b29b-4e79-be4a-a175b2e1f864" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="91923a47-34e3-4021-a679-84913c43e664" />
+					<attribute id="Icon" type="FixedString" value="c3612206-d013-ca7c-b586-78fb258b3663-EQP_Longsword_Leather_Shield_(Icon_HalfElf_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="87de4b2e-22c5-4776-8ea7-7d3d06e1201d" />
+					<attribute id="Name" type="LSString" value="Taman" />					
+					<attribute id="ParentTemplateId" type="FixedString" value="cc2efa0d-d72b-4394-bb11-57f4f494127a" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Fighter-->
+									<attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="fa9bbb2c-cdcd-4883-813e-ade17b989346" />
+					<attribute id="Icon" type="FixedString" value="d7f958ae-cc98-6066-0dc6-9c882573868c-EQP_Longsword_ScaleMail_(Icon_Gnomes_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="03e66bbe-fa2e-4830-a77a-4e21913370d4" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f660278d-6b97-4bfd-850d-66d40fd89d78" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Male-->
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Gnome-->
+									<attribute id="Object" type="guid" value="42483542-7915-4de5-a7d9-ac0d15fe301c" />
+								</node>
+								<node id="Tag"><!--Rogue-->
+									<attribute id="Object" type="guid" value="f8a0608b-666c-4be6-a49c-03b369c10bd2" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9f1abe4f-c481-4eac-b327-c36761bdb327" />
 					<attribute id="Icon" type="FixedString" value="dc916080-e41b-3ad8-b23e-cc475d2c4e34-_(Icon_Human_Female)" />
 					<attribute id="LevelName" type="FixedString" value="" />					
