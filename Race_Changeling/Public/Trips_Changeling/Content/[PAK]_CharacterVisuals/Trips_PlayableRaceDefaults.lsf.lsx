@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="8" minor="0" revision="0" build="2" />
+	<version major="8" minor="0" revision="0" build="2" lslib_meta="v1,bswap_guids" />
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
@@ -176,7 +176,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e6fa4c4b-8f7d-52d0-78d1-81405baf735f" />
 					<attribute id="BodySetVisual" type="FixedString" value="75d7cc4f-2e58-4c29-93c2-fa160b2b7b05" />
@@ -400,4 +399,4 @@
 			</children>
 		</node>
 	</region>
-</save>				
+</save>

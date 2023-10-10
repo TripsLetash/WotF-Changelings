@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="CharacterVisualBank">
@@ -604,7 +604,6 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="4cbefaf3-4126-d017-712e-4a744455016d" />
 						</node>
-
 					</children>
 				</node>
 				<node id="Resource">
@@ -2134,10 +2133,8 @@
 							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
 							<attribute id="VisualResource" type="FixedString" value="042925ad-abf5-e9a8-65ec-cc8fcad19d1e" />
 						</node>
-
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" />
 					<attribute id="BodySetVisual" type="FixedString" value="691326d2-1506-970a-2ca4-ebc84b64c877" />
@@ -2440,10 +2437,8 @@
 							<attribute id="Slot" type="FixedString" value="Hair" />
 							<attribute id="VisualResource" type="FixedString" value="28dbdc5b-e10f-a190-c166-b43693c6c2bf" />
 						</node>
-
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
 					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
@@ -2604,10 +2599,8 @@
 							<attribute id="Slot" type="FixedString" value="Piercing" />
 							<attribute id="VisualResource" type="FixedString" value="7150d3f4-56db-0481-532c-7bb813ae34ac" />
 						</node>
-
 					</children>
 				</node>
-				<!--Viconia-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="520ab334-9558-2150-c5f7-fa8e051a9b3f" />
 					<attribute id="BodySetVisual" type="FixedString" value="691326d2-1506-970a-2ca4-ebc84b64c877" />
@@ -2890,7 +2883,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Duke Ravengard-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
 					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
@@ -3039,7 +3031,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Sarevok-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="20b3ea2f-40db-418e-81fd-5dabe2d3e62b" />
 					<attribute id="BodySetVisual" type="FixedString" value="82ab6969-2889-4149-bd6f-c7922e320593" />
@@ -3439,7 +3430,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Lucretious-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c7c62a23-1ddc-6d56-7858-3bb5f3fe5a98" />
 					<attribute id="BodySetVisual" type="FixedString" value="9725b3db-6e40-054b-dc49-b8e479bc0cba" />
@@ -3857,7 +3847,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Nocturne-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
 					<attribute id="BodySetVisual" type="FixedString" value="820ddd41-7946-f026-099f-7034983d50d2" />
@@ -4117,7 +4106,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Kithrak Voss-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="e6fa4c4b-8f7d-52d0-78d1-81405baf735f" />
 					<attribute id="BodySetVisual" type="FixedString" value="e933d49d-9207-e9fc-819f-45db5b403a11" />
@@ -4374,7 +4362,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Orin-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" />
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
@@ -4653,7 +4640,6 @@
 						</node>
 					</children>
 				</node>
-				<!--Gortash-->
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
 					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
