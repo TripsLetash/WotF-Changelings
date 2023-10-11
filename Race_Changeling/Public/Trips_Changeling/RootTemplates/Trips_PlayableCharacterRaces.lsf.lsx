@@ -6,7 +6,7 @@
 			<children>
 				<!--Changeling Hireling-->
 				<node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="57cc2c7f-8f41-4f7e-bda1-cbd6442fffea" />
+					<attribute id="MapKey" type="FixedString" value="8864a654-b9fa-4513-8a77-7fc50e2b3647" />
 					<attribute id="Name" type="LSString" value="Hirelings_Stats_Player_Changeling" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />

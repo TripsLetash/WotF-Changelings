@@ -46,6 +46,26 @@
                     <attribute id="UUID" type="guid" value="ca1a777c-4770-4ca3-85f9-ff57d97c1ccf"/>
                     <attribute id="VisualResource" type="guid" value="c46323ef-fb06-4de3-9316-98b151e20e69"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual"> head 2
+                    <attribute id="DisplayName" type="TranslatedString" handle="h89638118ged0eg467dgb017g131d69f1bf10" version="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="c23b8d35-2dc6-4742-ad26-821917cfd964"/>
+                    <attribute id="VisualResource" type="guid" value="e514280f-a7a2-4391-b412-a52ebddbb711"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual"> head 3
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1ea90553g123ag48afga938g7b1e6c1b253c" version="1"/>
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="3b66e7cf-a90f-4dfc-a770-8387358a87f0"/>
+                    <attribute id="VisualResource" type="guid" value="8be974fa-9519-43d3-9759-76397c827505"/>
+                </node>
 
 
                 <node id="CharacterCreationAppearanceVisual">
