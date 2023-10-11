@@ -112,7 +112,10 @@
 	<content contentuid="h9b8e3326gfd9bg48a5ga845g5ec1cf3ec3ba" version="1">Shapechange: Dragonborn Male</content>
 	<content contentuid="hb9bab66fg2686g4bc7g956dg035a9d3c7660" version="1">Shapechange: Dragonborn Female</content>
 	<content contentuid="h3415669bg8d39g4e11gbfaeg694d79bde061" version="1">Shapechange: Half-Orc Male</content>
-	<content contentuid="h41a4f638g1c21g43e0g9906g5cb75d4cb5ff" version="1">Shapechange: Half-Orc Female</content>
+	<content contentuid="h41a4f638g1c21g43e0g9906g5cb75d4cb5ff" version="1">Shapechange: Half-Orc Female</content>	
+	<content contentuid="h85c2a948gd294g42b1g8b41g6fcfdbe76fdc" version="1">Shapechange: Goblin Female</content>
+	<content contentuid="hcc52c461gc319g40a1gafc9g4f49169985bc" version="1">Shapechange: Goblin Male</content>
+	
 	//Generic Strong
 	<content contentuid="h1f802c8dg1781g4d3fg84d9gdbf9c58c9611" version="1">Shapechange: Strong Human Male</content>
 	<content contentuid="hf703adfcg0e34g47bcg94aag1e97c7365bb9" version="1">Shapechange: Strong Human Female</content>

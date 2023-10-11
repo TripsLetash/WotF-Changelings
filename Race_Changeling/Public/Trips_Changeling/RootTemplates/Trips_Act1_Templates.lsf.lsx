@@ -4,6 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="130970ce-85d7-4d32-9b6c-886cda8c7d4a" />
 					<attribute id="Icon" type="FixedString" value="7073a549-3d3d-f803-4c4e-b03c8bfa220f-EQP_Crossbow_Leather_(Icon_Dwarf_Female)" />

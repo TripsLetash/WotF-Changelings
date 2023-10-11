@@ -294,7 +294,21 @@
                     <attribute id="U2" type="float" value="0.21875"/> Right
                     <attribute id="V1" type="float" value="0.03125"/> Top
                     <attribute id="V2" type="float" value="0.0625"/> Bottom
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Goblin_Male"/> 40 ROW 2 = 8
+                    <attribute id="U1" type="float" value="0.21875"/> Left
+                    <attribute id="U2" type="float" value="0.25"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom			
                 </node>		
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_Shapeshift_Goblin_Female"/> 41 ROW 2 = 9
+                    <attribute id="U1" type="float" value="0.25"/> Left
+                    <attribute id="U2" type="float" value="0.28125"/> Right
+                    <attribute id="V1" type="float" value="0.03125"/> Top
+                    <attribute id="V2" type="float" value="0.0625"/> Bottom			
+                </node>	
             </children>
         </node>
     </region>

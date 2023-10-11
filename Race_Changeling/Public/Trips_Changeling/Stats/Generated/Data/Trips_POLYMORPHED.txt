@@ -234,7 +234,23 @@ using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
 data "Icon" "Spell_Illusion_DisguiseSelf_Tiefling_Female"
 data "TemplateID" "4e87ce48-0800-4e82-849d-4f5ed91e1f98"
 
+new entry "SHAPESHIFT_TRIPS_GOBLIN_FEMALE"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "h85c2a948gd294g42b1g8b41g6fcfdbe76fdc"
+data "TemplateID" "3ca545a8-0fcb-4d40-8045-644cdd2546d8"
+
+new entry "SHAPESHIFT_TRIPS_GOBLIN_MALE"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SHAPESHIFT_TRIPS_TIEFLING_MALE"
+data "DisplayName" "hcc52c461gc319g40a1gafc9g4f49169985bc"
+data "TemplateID" "c7c57ab0-784d-4a56-9f52-488cc1152ab4"
+
 //Act 1
+
+
 
 new entry "SHAPESHIFT_TRIPS_BAELEN"
 type "StatusData"

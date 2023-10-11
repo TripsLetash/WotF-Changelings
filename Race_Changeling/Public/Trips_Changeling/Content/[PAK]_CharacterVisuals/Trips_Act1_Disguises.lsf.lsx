@@ -4,6 +4,7 @@
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
 			<children>
+			
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="7f96a865-11e1-8ad2-16dc-9a66621fbf75" />
 					<attribute id="BodySetVisual" type="FixedString" value="774a9359-3d67-4021-b32f-6c229d709741" />

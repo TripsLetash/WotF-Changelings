@@ -147,6 +147,89 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
+				<!--Goblin head masc-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="2e126523-ff58-252a-e1ce-59463bd7cf1c" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1195015 1.360764 0.07883018" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1195015 1.035895 -0.1731829" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="9dfbf18d-c4dc-478d-a645-81fcd00443eb" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="GOB_M_NKD_Head_Trips" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="546c010f-c54a-5e30-6408-a42303e61e66" />
+					<attribute id="SkeletonSlot" type="FixedString" value="1" />
+					<attribute id="Slot" type="FixedString" value="Head" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Changeling/[PAK]_Changeling/Heads/GOB_M_NKD_Head_Trips.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Trips_Changeling/[PAK]_Changeling/Heads/GOB_M_NKD_Head_Trips.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
+					<children>
+						<node id="AnimationSetOverrides">
+							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
+							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
+							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="6e2044b1-ae3f-e0db-add7-afd1a99c0777" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="94598741-8e8f-7def-fa9b-00609fd462cb" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="c465d4f0-e0b8-6f59-1515-8ee33a15669e" />
+						</node>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eeb1a6b9-6aae-efdd-6289-28d5d65d0d8a" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Mouth_Interior_Mesh.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="2c17490c-7b67-2ca8-ffd7-14e9c50db79b" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Eyes_Mesh.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="eeb1a6b9-6aae-efdd-6289-28d5d65d0d8a" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Ears_Mesh.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Tearline_Mesh.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Eyeshadow_Mesh.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
+							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Scalp_Mesh.7" />
+						</node>
+					</children>
+				</node>
+
+
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
