@@ -147,6 +147,87 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
+				<!--Goblin body masc-->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.6899772 1.128369 0.126013" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.6899767 -0.006682242 -0.2024119" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="87725efe-d033-cf2d-4560-2fede157a017" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="66458a12-8b70-4448-bc45-711b441cf161" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="Trips_HFL_M_NKD_Body_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="4048939c-da37-67f8-cb3f-9d8b392ba84e" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="506451ce-5184-3097-b2f2-14e0961b048c" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Halflings/_Male/Resources/HFL_M_NKD_Body_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Halflings/_Male/Resources/HFL_M_NKD_Body_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4de0352a-4c53-79d2-525f-0d5f058bd2eb" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_NKD_Body_A.HFL_M_NKD_Body_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="4de0352a-4c53-79d2-525f-0d5f058bd2eb" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_NKD_Body_A.HFL_M_NKD_Body_A_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="4de0352a-4c53-79d2-525f-0d5f058bd2eb" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_NKD_Body_A.HFL_M_NKD_Body_A_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="4de0352a-4c53-79d2-525f-0d5f058bd2eb" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_NKD_Body_A.HFL_M_NKD_Body_A_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="4de0352a-4c53-79d2-525f-0d5f058bd2eb" />
+							<attribute id="ObjectID" type="FixedString" value="HFL_M_NKD_Body_A.HFL_M_NKD_Body_A_Mesh_LOD4.4" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="shins" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="knees" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_01" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="wrists" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Thighs" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="decolletage_02" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+					</children>
+				</node>
 				<!--Goblin head masc-->
 				<node id="Resource">
 					<attribute id="AttachBone" type="FixedString" value="" />
@@ -198,7 +279,7 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="2c17490c-7b67-2ca8-ffd7-14e9c50db79b" />
+							<attribute id="MaterialID" type="FixedString" value="4886ca45-ab69-0821-84e6-752274d07a87" />
 							<attribute id="ObjectID" type="FixedString" value="GOB_M_NKD_Head_Trips.GOB_M_NKD_Head_Trips_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">

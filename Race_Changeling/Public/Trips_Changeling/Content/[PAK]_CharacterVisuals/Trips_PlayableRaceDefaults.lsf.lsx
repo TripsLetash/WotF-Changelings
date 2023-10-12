@@ -3,9 +3,7 @@
 	<version major="8" minor="0" revision="0" build="2" />
 	<region id="CharacterVisualBank">
 		<node id="CharacterVisualBank">
-			<children>
-
-			
+			<children>			
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="23418296-f7fa-66e9-b986-466a12707c1a" />
 					<attribute id="BodySetVisual" type="FixedString" value="ecf88356-fc72-452d-89d5-bfde61e930c8" />
