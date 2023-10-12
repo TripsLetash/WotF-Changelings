@@ -25,17 +25,17 @@
 +------------------+-------------+------------+------------+
 | H-Orc M/F        | Rolan       | Kressa     | Exxvikyap  |
 +------------------+-------------+------------+------------+
-| Str Human M/F    | Halsin      | The Warden | Naoise     |
+| Goblin M/F       | Halsin      | The Warden | Naoise     |
 +------------------+-------------+------------+------------+
-| Str Drow M/F     | Minthara    |            | Korrilla   |
+| Str Human M/F    | Minthara    |            | Korrilla   |
 +------------------+-------------+------------+------------+
-| Str Elf M/F      | Abdirak     |            | Nym        |
+| Str Drow M/F     | Abdirak     |            | Nym        |
 +------------------+-------------+------------+------------+
-| Str H-Elf M/F    | Dammon      |            | Sorn       |
+| Str Elf M/F      | Dammon      |            | Sorn       |
 +------------------+-------------+------------+------------+
-| Str Tiefling M/F | Florrick    |            | Dribbles   |
+| Str H-Elf M/     | Florrick    |            | Dribbles   |
 +------------------+-------------+------------+------------+
-|                  | Gandrel     |            | Mystra     |
+| Str Tiefling M/F | Gandrel     |            | Mystra     |
 +------------------+-------------+------------+------------+
 |                  | Dark Urge   |            |            |
 +------------------+-------------+------------+------------+
