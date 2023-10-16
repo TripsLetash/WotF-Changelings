@@ -11,7 +11,8 @@
                     <attribute id="Name" type="FixedString" value="Trips_Changeling"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="2a6b9ce0-c21a-421f-8378-6383c8c01b87"/>                  
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>     
+                    <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>    
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Githyanki"/>
                     <attribute id="UUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
                     <children>                
