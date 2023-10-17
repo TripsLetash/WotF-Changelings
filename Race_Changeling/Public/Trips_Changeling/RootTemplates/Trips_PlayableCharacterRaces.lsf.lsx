@@ -17,6 +17,7 @@
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="189944f1-7dd1-4c80-bab0-bcdb28b4ba65" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="189944f1-7dd1-4c80-bab0-bcdb28b4ba65" />
+          			<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
 					<attribute id="Faction" type="guid" value="b7b47ac8-8e29-4984-b8c5-f35b66d8265a" />
 					<children>
 						<node id="Tags">
