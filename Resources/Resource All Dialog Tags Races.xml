@@ -1,69 +1,96 @@
-MALE                8f74d144-041e-4035-a9ac-72f41fc32de7
-FEMALE              3806477c-65a7-4100-9f92-be4c12c4fa4f
+Trips Resource List of Game Tags; Various
 
-PLAYABLE            25bf5042-5bf6-4360-8df8-ab107ccb0d37
+AVATAR                  306b9b05-1057-4770-aa17-01af21acd650
+CIVIL_RACE              be87fe94-657b-49fd-bec5-1348119018c7
+CHARMED_ADV             ada75891-25ff-4bdc-9a11-ad32de62a961          
+FEY                     8cac055c-82dd-435c-9496-cf4c4b4581ab
 
-Rare                987a41e3-2482-4c74-8c30-f3843cfdb7f3
-Underdark           2d0a73b9-f113-4d35-bdee-a31ab9163d74
-Baldurian           f15e9b0d-676c-4f52-9abf-365cff89ef0f
+VFX_ASHPILE_MEDIUM      0a79a905-d41f-401f-a0e4-a2401143fc17
+SHORT                   50e7beca-4e90-43cd-b7c5-c235e236077f
 
-Generic             264a6880-9a51-429c-a9fc-97f8952baf90
-Tadpoled            1eec74e8-3673-4500-abec-57b7ed8469ed
-Dark Urge           fe825e69-1569-471f-9b3f-28fd3b929683
-Humanoid            7fbed0d4-cabc-4a9d-804e-12ca6088a0a8
-Companion           2a4f9fcc-5891-4150-bf3f-a219e69a7f33
+RARE                    d2f86ec3-c41f-47e1-8acd-984872a4d7d5
 
-BARBARIAN           02913f9a-f696-40cf-acdf-32032afab32c
-BARD                d93434bd-6b71-4789-b128-ee24156057cc
-CLERIC              1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5
-DRUID               44ac4317-4d38-4d28-80e2-94024c6e42f0
-FIGHTER             1ae7017c-4884-4a43-bc4a-742fa0d201c0
-MONK                e1e460bb-d0ae-4452-8529-c9e176558731
-PALADIN             6d85ab2d-5c23-498c-a61e-98f05a00177a
-RANGER              37a733c1-a862-4157-b92a-9cff46232c6a
-ROGUE               f8a0608b-666c-4be6-a49c-03b369c10bd2
-SORCERER            18266c0b-efbc-4c80-8784-ada4a37218d7
-WARLOCK             5804f55a-93f7-4281-9512-8d548a9e2a22
-WIZARD              6fe3ae27-dc6c-4fc9-9245-710c790c396c
+WEIGHT_MEDIUM           653cb906-38d1-4b80-b598-00b064efff3d
+WEIGHT_SMALL            7e99123d-6833-4461-9b4a-b5e281586734
 
-Changeling          1e41a68b-ee38-490c-940a-a544e1c92fe3
+DAISY_FEMALE            17c2405e-5771-4150-ad00-b1ef8d1dd5ae
 
-Human	            8e288154-e7ca-4277-b2df-e61639b1cce8
+DAISY_DESIRETRACK       8f815f65-6fe5-4671-8e2b-63575e1f2e88
 
-Githyanki           e49c027c-6ec6-4158-9afb-8b59236d10fd
+GENITAL_VULVA           a0738fdf-ca0c-446f-a11d-6211ecac3291
 
-Tiefling            7bf7207f-7406-49c0-b501-eaaa2bb4efd7
-Mephistopheles Tief c70e1dc2-72d4-44f9-83fd-c63d247edd9b
-Asmodeus Tief       6591a20a-12de-46ff-bf82-b866cd97bb9a
-Zariel Tiefling     3a5efd84-5925-4a75-83ee-4f336b56f716
+ACOLYTE                 906d1961-e9c6-4170-b775-62797a0efe1c
 
-Elf                 772b1dc6-14be-417f-afa3-c6cf364f45b4
-High Elf            78884c5f-9504-41af-912d-ce212df0ebea
-Wood Elf            b12e8dff-c1f0-4e9c-9ec0-1cafd22bb637
+ILLITHID_HIDDEN_CHECK   4835ba9d-c0d6-40fb-ad62-88f875b536c2
 
-Half-Elf            277f9609-ad0c-4883-b56d-0850904e88df
-Drow HalfElf        3dbe23e0-2c9f-4a81-b586-ec6e50f720e1
-High HalfElf        bb7c731c-7af7-4c2d-b3d7-b4e8bd86a244
-Wood HalfElf        8ac1b27c-c5c4-4a2c-95dd-256e4349e483
+MALE                    8f74d144-041e-4035-a9ac-72f41fc32de7
+FEMALE                  3806477c-65a7-4100-9f92-be4c12c4fa4f
 
-Dwarf	            ad129444-0f41-4114-9ee5-2b9902d7ca8d
-Mountain Dwarf      18659b46-73ae-49d2-85a8-7e6cc43ce94f
-Duergar Dwarf       45b007f7-f4f6-46e2-9480-395a49b87ef3
-Hill Dwarf          9a92ac6d-b7cc-4ccb-8965-074c6b36a342
+PLAYABLE                25bf5042-5bf6-4360-8df8-ab107ccb0d37
 
-Halfling            2b40a033-7a5c-47e9-92f0-7de9b5cd3a42
-Stout Halfling      058df86a-97b6-4dc4-a246-a1db65ff3c0f
-Lightfoot Halfling  da1d4f47-8583-49a1-b262-d77d361b2e09
+Rare                    987a41e3-2482-4c74-8c30-f3843cfdb7f3
+Underdark               2d0a73b9-f113-4d35-bdee-a31ab9163d74
+Baldurian               f15e9b0d-676c-4f52-9abf-365cff89ef0f
 
-Gnome	            42483542-7915-4de5-a7d9-ac0d15fe301c
-Deep Gnome          17d29357-beba-4096-accc-c28bdea88fda
-Forest Gnome        b0401c02-70b3-47f5-998f-8d440ad6954f
-Rock Gnome          df697d73-5469-405a-aa95-6e1e720c5ee6
+GENERIC                 730e82f3-c067-44a4-985b-0dfe079d4fea
+Generic                 264a6880-9a51-429c-a9fc-97f8952baf90
+Tadpoled                1eec74e8-3673-4500-abec-57b7ed8469ed
+Dark Urge               fe825e69-1569-471f-9b3f-28fd3b929683
+Humanoid                7fbed0d4-cabc-4a9d-804e-12ca6088a0a8
+Companion               2a4f9fcc-5891-4150-bf3f-a219e69a7f33
 
-Drow	            676e854b-d74b-44f3-8363-3ef27164a54d
-Lolth Drow          c71eb8de-74e3-4d70-9826-22da7e2dc607
-Seldarine Drow      d2d60a81-688e-4d3d-ba56-3e467cae37fc
+BARBARIAN               02913f9a-f696-40cf-acdf-32032afab32c
+BARD                    d93434bd-6b71-4789-b128-ee24156057cc
+CLERIC                  1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5
+DRUID                   44ac4317-4d38-4d28-80e2-94024c6e42f0
+FIGHTER                 1ae7017c-4884-4a43-bc4a-742fa0d201c0
+MONK                    e1e460bb-d0ae-4452-8529-c9e176558731
+PALADIN                 6d85ab2d-5c23-498c-a61e-98f05a00177a
+RANGER                  37a733c1-a862-4157-b92a-9cff46232c6a
+ROGUE                   f8a0608b-666c-4be6-a49c-03b369c10bd2
+SORCERER                18266c0b-efbc-4c80-8784-ada4a37218d7
+WARLOCK                 5804f55a-93f7-4281-9512-8d548a9e2a22
+WIZARD                  6fe3ae27-dc6c-4fc9-9245-710c790c396c
 
-Dragonborn          39783f17-8484-46a6-aa3b-f3d51122e5f3
+Trips_Goblin            8403b1c0-08b0-4482-9b1d-0b63ee9dad0a
+Trips_Changeling        1e41a68b-ee38-490c-940a-a544e1c92fe3
 
-Half-Orc            ab3eff19-d094-4102-88bd-d097b6b6e4f0
+Human	                8e288154-e7ca-4277-b2df-e61639b1cce8
+
+Githyanki               e49c027c-6ec6-4158-9afb-8b59236d10fd
+
+Tiefling                7bf7207f-7406-49c0-b501-eaaa2bb4efd7
+Mephistopheles Tief     c70e1dc2-72d4-44f9-83fd-c63d247edd9b
+Asmodeus Tief           6591a20a-12de-46ff-bf82-b866cd97bb9a
+Zariel Tiefling         3a5efd84-5925-4a75-83ee-4f336b56f716
+
+Elf                     772b1dc6-14be-417f-afa3-c6cf364f45b4
+High Elf                78884c5f-9504-41af-912d-ce212df0ebea
+Wood Elf                b12e8dff-c1f0-4e9c-9ec0-1cafd22bb637
+
+Half-Elf                277f9609-ad0c-4883-b56d-0850904e88df
+Drow HalfElf            3dbe23e0-2c9f-4a81-b586-ec6e50f720e1
+High HalfElf            bb7c731c-7af7-4c2d-b3d7-b4e8bd86a244
+Wood HalfElf            8ac1b27c-c5c4-4a2c-95dd-256e4349e483
+
+Dwarf	                ad129444-0f41-4114-9ee5-2b9902d7ca8d
+Mountain Dwarf          18659b46-73ae-49d2-85a8-7e6cc43ce94f
+Duergar Dwarf           45b007f7-f4f6-46e2-9480-395a49b87ef3
+Hill Dwarf              9a92ac6d-b7cc-4ccb-8965-074c6b36a342
+
+Halfling                2b40a033-7a5c-47e9-92f0-7de9b5cd3a42
+Stout Halfling          058df86a-97b6-4dc4-a246-a1db65ff3c0f
+Lightfoot Halfling      da1d4f47-8583-49a1-b262-d77d361b2e09
+
+Gnome	                42483542-7915-4de5-a7d9-ac0d15fe301c
+Deep Gnome              17d29357-beba-4096-accc-c28bdea88fda
+Forest Gnome            b0401c02-70b3-47f5-998f-8d440ad6954f
+Rock Gnome              df697d73-5469-405a-aa95-6e1e720c5ee6
+
+Drow	                676e854b-d74b-44f3-8363-3ef27164a54d
+Lolth Drow              c71eb8de-74e3-4d70-9826-22da7e2dc607
+Seldarine Drow          d2d60a81-688e-4d3d-ba56-3e467cae37fc
+
+Dragonborn              39783f17-8484-46a6-aa3b-f3d51122e5f3
+
+Half-Orc                ab3eff19-d094-4102-88bd-d097b6b6e4f0
