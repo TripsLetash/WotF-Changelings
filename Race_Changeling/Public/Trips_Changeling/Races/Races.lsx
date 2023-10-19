@@ -1065,7 +1065,8 @@
                         </node>
                         <node id="Visuals">
                             <attribute id="Object" type="guid" value="cd480bbf-02a2-496c-a1ca-785ae04b2edd"/>
-                        </node>                        
+                        </node>
+                    
                     </children>
                 </node>
              </children>
