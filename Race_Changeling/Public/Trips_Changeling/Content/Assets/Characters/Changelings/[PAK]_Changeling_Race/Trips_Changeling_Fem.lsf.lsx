@@ -217,6 +217,11 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_Head.Trips_Changeling_F_Head_Eyelashes_Mesh.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
 							<attribute id="ObjectID" type="FixedString" value="Trips_Changeling_F_Head.Trips_Changeling_F_Head_Eyeshadow_Mesh.5" />
 						</node>
 						<node id="Objects">
