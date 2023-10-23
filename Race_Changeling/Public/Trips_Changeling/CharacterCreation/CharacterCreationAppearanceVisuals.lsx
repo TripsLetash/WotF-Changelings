@@ -7,6 +7,7 @@
                 <!--Femme-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="h2887a975g9facg4c4bgaa3ag56f4eecf51e3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_af1002e6-9565-4285-bbe7-d0c24218a680" />
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -17,6 +18,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 2
                     <attribute id="DisplayName" type="TranslatedString" handle="h89638118ged0eg467dgb017g131d69f1bf10" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_6c4858e8-20a9-4879-b5c9-876e3b7c9a70"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -27,6 +29,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 3
                     <attribute id="DisplayName" type="TranslatedString" handle="h1ea90553g123ag48afga938g7b1e6c1b253c" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_eef1b6e7-9374-40ee-92d8-2ab4914a3136"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -37,6 +40,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 4
                     <attribute id="DisplayName" type="TranslatedString" handle="h356a7852g4b95g4e27g8b8bg603488bef7f1" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_a5952a41-5a47-4edb-a62d-1ea407f72673"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -47,6 +51,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head Orin
                     <attribute id="DisplayName" type="TranslatedString" handle="ha9ba8277ge662g49bfg85fage8e861af9ab7" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_3b8a8dec-0507-427e-9386-54d35b52ecf3"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -58,6 +63,7 @@
                 <!--Masc-->
                 <node id="CharacterCreationAppearanceVisual"> head 1
                     <attribute id="DisplayName" type="TranslatedString" handle="h89638118ged0eg467dgb017g131d69f1bf10" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_a4e330e1-614a-441e-879b-fdb8c1eca17e"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -68,6 +74,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 2
                     <attribute id="DisplayName" type="TranslatedString" handle="h89638118ged0eg467dgb017g131d69f1bf10" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_c35580f3-d179-49ac-bec6-13d9ad1a0797"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -78,6 +85,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 3
                     <attribute id="DisplayName" type="TranslatedString" handle="h1ea90553g123ag48afga938g7b1e6c1b253c" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_16f57377-c700-46eb-abf1-ed9ef8caaa8a"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>

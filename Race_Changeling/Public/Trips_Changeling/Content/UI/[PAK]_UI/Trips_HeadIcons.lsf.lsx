@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="4096" />
+					<attribute id="ID" type="FixedString" value="4ceec31a-3cbc-4828-a2ee-cea129d71b1f" /> <!-- same UUID as in the TextureAtlasInfo in Mod_Icons.lsx-->
+					<attribute id="Name" type="LSString" value="mod_icons" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Textures/Icons/Mod_Icons.dds" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="mod_icons" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="8192" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
