@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Hand_01" />
+					<attribute id="ID" type="FixedString" value="d2c9a791-f4ca-401c-9beb-09596a792474" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Hand_01" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Hand_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725559" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="85e618f4-d49d-d925-43ec-e9abc4513421" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="1 1 1" />
+					<attribute id="BoundsMin" type="fvec3" value="-1 -1 -1" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Hand_02" />
+					<attribute id="ID" type="FixedString" value="b224bef0-2300-4e0d-ae9d-6cd4ef895cc6" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Hand_02" />
+					<attribute id="Radius" type="float" value="1" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Hand_02.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725559" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="67ff2d1f-70aa-e845-9015-e8d1d6b2c0b5" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Fireflies" />
+					<attribute id="ID" type="FixedString" value="a12f9247-2d1a-403f-9c29-8ef0527a965c" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Fireflies" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Fireflies.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758168" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="14c3c3b3-ccbf-f7ec-1045-a480dc3dd224" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.000234" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_01" />
+					<attribute id="ID" type="FixedString" value="3862297d-8390-41b0-bee5-b52d8674f9d1" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_01" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Fireflies_SubEmit_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758168" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.000234" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_02" />
+					<attribute id="ID" type="FixedString" value="6341088c-9c82-4d12-81c7-df8595120e9c" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_02" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Fireflies_SubEmit_02.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758168" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.000234" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_03" />
+					<attribute id="ID" type="FixedString" value="2441ebf5-9380-4e65-8c2c-4e28bf8aa04b" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_03" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Fireflies_SubEmit_03.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758168" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.000234" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_04" />
+					<attribute id="ID" type="FixedString" value="1202c22e-1823-49bc-b9fc-4f4b19e477e1" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Fireflies_SubEmit_04" />
+					<attribute id="Radius" type="float" value="2" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Fireflies_SubEmit_04.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758168" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="1 1 1" />
+					<attribute id="BoundsMin" type="fvec3" value="-1 -1 -1" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Eye_01" />
+					<attribute id="ID" type="FixedString" value="be8035d8-5b25-47b7-99cb-7fcc0abf3200" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Eye_01" />
+					<attribute id="Radius" type="float" value="1.732051" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Eye_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208705" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="01626d7f-0e08-0910-83f3-4958a0eeb5ef" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1a1a7099-9c46-4d5f-8f00-a249af1dc519" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="1 1 1" />
+					<attribute id="BoundsMin" type="fvec3" value="-1 -1 -1" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Eye_02" />
+					<attribute id="ID" type="FixedString" value="58754a63-531b-4075-9ce9-f686aa00f46a" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Eye_02" />
+					<attribute id="Radius" type="float" value="1.732051" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Eye_02.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208705" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="98b034c0-403e-2d02-7eb7-34755c744213" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1a1a7099-9c46-4d5f-8f00-a249af1dc519" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>				
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="3.309876" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_BodyFX_01" />
+					<attribute id="ID" type="FixedString" value="d2c1cedf-c288-4ce8-9fb2-23610e61844b" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_BodyFX_01" />
+					<attribute id="Radius" type="float" value="3.464102" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_BodyFX_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208706" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2e178130-580f-cb43-bb34-5dc520b572e8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="05cdd1bc-5b0c-63d8-0b4f-4d68a135032f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="eba81512-baff-6eb9-c2ff-5d14403efb55" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9195f89c-1a32-1d51-a676-c8d0d090f2b2" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="49a27791-da88-a56b-025c-c3f89a37ed74" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f4b0c482-e50c-f4a1-a545-ce8b95acccda" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f1d43518-55f1-1419-0b34-60889183a272" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>	
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="3.7" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Crackle" />
+					<attribute id="ID" type="FixedString" value="ace03d97-a1ff-4aa9-adee-64c5a5d6138f" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Crackle" />
+					<attribute id="Radius" type="float" value="3" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Crackle.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b4c92036-3733-5b15-f86d-1a02855d0144" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d5f87828-7bd2-2ad0-f056-a4bed753c649" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b2994464-b4ca-240e-923d-1ee4cf370ad3" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3c412958-46db-b723-bd28-33f2ee1d0d51" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="cb2c741b-1844-9128-eb24-31a954fb4e41" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e32fd33c-7b42-4ed7-d010-b9a8efe7aab8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5d0541ab-9dc3-036f-1b7d-5120de13a06c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="706c6118-b534-ecc1-051c-6699673cca6a" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="6 8 6" />
+					<attribute id="BoundsMin" type="fvec3" value="-6 -4 -6" />
+					<attribute id="Center" type="fvec3" value="0 2 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.68" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Prepare_Root_01" />
+					<attribute id="ID" type="FixedString" value="63b102b8-88fd-4624-ad21-362e00906b68" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Prepare_Root_01" />
+					<attribute id="Radius" type="float" value="10.3923" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Prepare_Root_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="140f157b-a206-533f-d951-841df0d277f6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7282b5c2-5a71-4e80-2c2f-c96627e7e4ff" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d3d0bd3d-ff74-c4c6-b0d2-326944405606" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="39f6fbef-4b40-0bdb-e513-aff7232349a8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4ebe3398-dea7-6745-2cd5-df573ca68546" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f47d2eb0-af43-e862-8a1c-a431867fbe2b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7d365265-8eef-0644-e7a6-e194848400ff" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="317bf423-2205-46f1-6932-c1e980336040" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9195f89c-1a32-1d51-a676-c8d0d090f2b2" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="60f69767-0108-0b23-f46d-f82bbe45a963" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e134d272-5f69-4d15-2b3a-1c1ff819852b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e861c0c8-a4f4-b18f-0dcb-34f1fcaa371b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9710c384-0521-6285-441b-507a3ac65892" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f1d43518-55f1-1419-0b34-60889183a272" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
+					<attribute id="Center" type="fvec3" value="0 1 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Cast_Root_01" />
+					<attribute id="ID" type="FixedString" value="eed112b0-8bc8-47fb-97e3-22be44ed5ec4" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Cast_Root_01" />
+					<attribute id="Radius" type="float" value="5.196152" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Cast_Root_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208706" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3baa4db5-49da-1eda-78d9-410798f2a043" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c15f129-f070-7a2b-e66d-d728aaea2383" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b4c92036-3733-5b15-f86d-1a02855d0144" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="44192e18-75cf-4d16-1747-81ed534b8247" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2e178130-580f-cb43-bb34-5dc520b572e8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="32088190-d459-0227-c73a-d32ba22b7051" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="6 8 6" />
+					<attribute id="BoundsMin" type="fvec3" value="-6 -4 -6" />
+					<attribute id="Center" type="fvec3" value="0 2 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.183779" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_Cast_Shout_Root_01" />
+					<attribute id="ID" type="FixedString" value="c1dfb841-fa7a-4b28-9702-d299ac08ca24" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_Cast_Shout_Root_01" />
+					<attribute id="Radius" type="float" value="10.3923" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_Cast_Shout_Root_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="39f6fbef-4b40-0bdb-e513-aff7232349a8" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4ebe3398-dea7-6745-2cd5-df573ca68546" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f47d2eb0-af43-e862-8a1c-a431867fbe2b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7d365265-8eef-0644-e7a6-e194848400ff" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9195f89c-1a32-1d51-a676-c8d0d090f2b2" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="140f157b-a206-533f-d951-841df0d277f6" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e861c0c8-a4f4-b18f-0dcb-34f1fcaa371b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f1d43518-55f1-1419-0b34-60889183a272" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>			
+	</region>
+</save>
