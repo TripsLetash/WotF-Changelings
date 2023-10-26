@@ -5,6 +5,61 @@
 		<node id="EffectBank">
 			<children>
 				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 5 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -5 -5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Shapeshift_BlackFlame_01" />
+					<attribute id="ID" type="FixedString" value="1775faf1-f9c3-4e72-bcf0-470a66126d50" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Shapeshift_BlackFlame_01" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Effects/Effects_Banks/VFX_Trips_Shapeshift_BlackFlame_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1821bf0a-2a37-3254-6ff8-65edcba14b1d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0c25e230-8b97-13ff-7431-a3060b1e2b51" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1cfeb095-cb43-c445-4a56-0e0eeef0d903" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4b32aed8-01c8-5ab2-adcc-2b5fad7712cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="fd4ab41a-443a-8334-de24-cdf4eae68011" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="31279149-c0cc-96dc-36cc-f3acb199af7a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="415831a5-1595-6472-1a14-b3c26d5c174a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1d7de54b-8c46-86f5-ac28-3b41c2f85974" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="30e17083-9341-c17f-1993-4301d74f2152" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d1997f3-03c7-a813-7efa-7f7e1edac10b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="ede0a834-2a0a-668b-3c95-46cfb65333bc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4ea97ffc-8b7f-e734-764a-158143922522" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
 					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
 					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
 					<attribute id="Center" type="fvec3" value="0 0 0" />
