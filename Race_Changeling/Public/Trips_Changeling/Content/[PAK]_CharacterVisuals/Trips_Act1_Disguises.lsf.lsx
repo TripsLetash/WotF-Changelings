@@ -2446,7 +2446,7 @@
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="17eb4495-aeb5-a417-83a1-79b39313cba2" />
 					<attribute id="BodySetVisual" type="FixedString" value="9d618ae2-7993-5cea-bfea-887a010e2c2b" />
-					<attribute id="ID" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae" />
+					<attribute id="ID" type="FixedString" value="53e7c98d-47b7-4601-b2c6-42a638fb9f40" />
 					<attribute id="Name" type="LSString" value="Dammon" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />

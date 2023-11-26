@@ -403,7 +403,7 @@
 				</node>
 				<!--Dammon-->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="53e7c98d-47b7-4601-b2c6-42a638fb9f40" />
 					<attribute id="Faction" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a" />
 					<attribute id="Icon" type="FixedString" value="0a737d97-4fbc-7878-7f13-4181a918a4ae-EQP_Scimitar_Leather_(Icon_Tiefling_Male)" />
 					<attribute id="ParentTemplateId" type="FixedString" value="cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2" />
