@@ -33,7 +33,88 @@
 						<node id="LocomotionParams" />
 					</children>
 				</node>
-			
+				<!--Daisy-->
+				<node id="GameObjects"><!--Changeling Male-->
+					<attribute id="MapKey" type="FixedString" value="0a062345-ca30-4c7e-9f46-38ff852a4a7c" />
+					<attribute id="AnimationSetResourceID" type="FixedString" value="adc23239-d7fc-bb4b-d9ab-1ee2b979404f" />
+					<attribute id="Name" type="LSString" value="Trips_Changeling_Male_Daisy" />							
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d821fa6f-811d-49ca-83f7-539160556c4e" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="d821fa6f-811d-49ca-83f7-539160556c4e" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1f5d212fg190fg4bebg8f44g60a648623226" version="2" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6654540a-f46d-4eb9-87f6-1af4a3e49b60" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          			<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>			
+				<node id="GameObjects"><!--Changeling Female-->
+					<attribute id="MapKey" type="FixedString" value="8a05daf3-a82a-4202-9bdf-c7fe69f01cf5" />
+					<attribute id="AnimationSetResourceID" type="FixedString" value="955b1b70-725c-539b-c870-ed2fcccef2c7" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="f6ef376a-9a7d-42c3-9628-892f2e17ac76" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he636d8ffg177fg406bg8daeg6bc4c8b5e5cf" version="2" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="f5c770f6-d246-7705-cd86-52510ccdcfc3-EQP_Daisy_(Icon_Githyanki_Female)" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Name" type="LSString" value="Trips_Changeling_Female_Daisy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ade40f4a-b529-4fc8-8ad8-a0029728aa80" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="ade40f4a-b529-4fc8-8ad8-a0029728aa80" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          			<attribute id="Race" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroChangelingFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758169" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="25bf5042-5bf6-4360-f88d-10abcb7c370d" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+								</node>					
+							</children>
+						</node>
+					</children>
+				</node>
 				<!--Player-->
 				<node id="GameObjects"><!--Changeling Male-->
 					<attribute id="MapKey" type="FixedString" value="8eb4675a-91a8-4ed5-8ebe-1c9a9f29059c" />		
@@ -152,7 +233,7 @@
 					<attribute id="Icon" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463-_(Icon_Githyanki_Female)" />
 					<attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Astarion" />
 					<children>
 						<node id="Tags">
 							<children>
@@ -178,7 +259,7 @@
 					<attribute id="IsPlayer" type="bool" value="False" />
 					<attribute id="NotHardcore" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="f0656351-448d-1421-fde6-ba2e9ade0a7f" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Astarion" />
 					<children>
 						<node id="Tags">
 							<children>

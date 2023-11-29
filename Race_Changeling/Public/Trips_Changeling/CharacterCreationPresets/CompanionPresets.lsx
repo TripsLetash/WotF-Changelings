@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="308"/>
+    <region id="CompanionPresets">
+        <node id="root">
+            <children>
+            <!--Changeling-->
+                <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="CloseUpA" type="LSString" value="GTY_F_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="GTY_F_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="GTY_F_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="RootTemplate" type="guid" value="8a05daf3-a82a-4202-9bdf-c7fe69f01cf5"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="8dfc7afc-dd67-4073-b19a-296d0e68e7a6"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+                <node id="CompanionPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="GTY_M_Camera_CompanionCloseup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="GTY_M_Camera_CompanionCloseup_B"/>
+                    <attribute id="Overview" type="LSString" value="GTY_M_Camera_CompanionOverview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="7c314b07-5475-49bd-ad29-6782b16dc300"/>
+                    <attribute id="RootTemplate" type="guid" value="0a062345-ca30-4c7e-9f46-38ff852a4a7c"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="6fb13d83-4d73-4d23-a885-fdcb6b7e40f7"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="eec1dacc-91ee-49db-968f-a367faa97f42"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
